@@ -4400,7 +4400,7 @@ Breaking into the Pact’s stronghold reveals the scale of their operation. The 
 {{OrgName
 ## The Hollow Veil
 }}
-:::
+::
 {{monster,orgstat
 {{columns:2,statpart1
 
@@ -4414,9 +4414,7 @@ Breaking into the Pact’s stronghold reveals the scale of their operation. The 
 ---
 ### Goal
 The ultimate aim of the Hollow Veil is nothing less than the dissolution of the Material Plane itself—a slow, deliberate unraveling of reality through the severing of its fundamental tethers: sight, language, and physical form. These three anchors, the cult teaches, are the mechanisms by which the illusion of reality is maintained, each one reinforcing the lie of solidity and separation. By abolishing sight, they deny the world’s false shape; by abandoning language, they escape the cage of structured thought; and by destroying the body, they reject the prison of flesh. Through ritual mutilation, mind-warping incantations, and communion with the Far Realm’s alien intelligences, the Hollow Veil seeks to erode the boundaries that define existence. Each act of unmaking weakens the veil a little more, allowing the Void’s influence to seep through. Their doctrine holds that when enough tethers are cut—within themselves, their surroundings, and ultimately across the world—the illusion of reality will collapse, and all that remains will be the pure, perfect nothingness of the Far Realm, unshackled by form or meaning.
-### Ability
 
-**Nihil’s Clarity**: This ability allows nihilist cultists to see through the illusions of meaning, exposing the emptiness of ambition, faith, and tradition. They have advantage on any check made to manipulate others into despair, discredit sacred beliefs, or reveal the futility of a cause.  
 
 
 
@@ -4426,7 +4424,10 @@ The ultimate aim of the Hollow Veil is nothing less than the dissolution of the 
 
 \column
 ::::::::::
+### Ability
 
+**Nihil’s Clarity**: This ability allows nihilist cultists to see through the illusions of meaning, exposing the emptiness of ambition, faith, and tradition. They have advantage on any check made to manipulate others into despair, discredit sacred beliefs, or reveal the futility of a cause.  
+:
 ### Abstract
 The Hollow Veil is a nihilistic sect of philosophers, mystics, and self-mutilating zealots who believe the Material Plane is an elaborate illusion—a "veil" cast by cruel or indifferent gods to blind mortals from the transcendent truth of the Void. Their dogma teaches that flesh, sight, and even language are chains binding the soul to falsehood. Through gruesome rituals, arcane study, and communion with Far Realm entities, they seek to "unweave" reality itself, peeling back the layers of deception until nothing remains but the pure, unfiltered Void.
 
@@ -4437,24 +4438,7 @@ Their practices are a grotesque fusion of asceticism and self-destruction: eyes 
 The Hollow Veil operates under a fractured yet rigid hierarchy known as the Spiral of Unmaking, where advancement is marked not by power or favour, but by acts of increasing self-negation. At its apex are the Veilwithered, enigmatic figures who have wholly renounced physical identity—blind, mute, and mutilated beyond recognition, they are revered as living conduits of the Void’s will. Beneath them are the Unbound Seers, those who have surrendered their senses to achieve higher perception, guiding initiates through revelation and madness. The Fleshscribes form the cult’s scholarly core, transcribing esoteric truths in blood and scarification, while Tongueless Shepherds oversee indoctrination through silent ritual and telepathic communion. At the lowest tier are the Petals of the Lie—new initiates who remain largely intact but are expected to prove their devotion through study, sacrifice, and self-inflicted suffering. Each rank spirals inward, drawing its adherents ever closer to the annihilation they call enlightenment.
 
 :
-### History
-The Hollow Veil traces its origins to the doomed city of **Vorthas**, a once-great center of learning whose scholars delved too greedily into the nature of reality. Among them was **Philosopher-Celebrant Ithros**, who, while studying the *Tome of Unseen Truths*, became convinced that the world was an illusion—a grand deception woven by unseen jailers to blind mortals from the purity of the Void. His teachings attracted a small circle of disillusioned scholars, who met in the catacombs beneath Vorthas, performing rituals to "thin the Veil."  
-
-Their work was deemed heretical, and when the city’s high priests uncovered their blasphemies, Ithros and his followers were sentenced to execution. But on the eve of their burning, the ground split open beneath Vorthas, swallowing the city whole. Only the cultists survived, dragged into the depths by something that whispered promises of revelation. They emerged days later, their eyes hollowed out, speaking of a **"great Unseeing"** that had shown them the truth.  
-
-For centuries, the Hollow Veil lingered in the ruins of dead civilizations, gathering the lost and the broken—philosophers driven mad by their own questions, artists who saw too much, and mystics who could no longer bear the weight of false reality. Their numbers grew in secret, always one step ahead of those who sought to stamp them out.  
-
-Their turning point came when the blind prophet **Malrik the Unwoven** unearthed the *Mirror of Unmaking* in the corpse-city of Il’Morthis. Gazing into it, he saw the Material Plane for what it truly was—a fragile illusion, fraying at the edges. Under his leadership, the cult abandoned shadows and began its **great work**: the systematic unraveling of reality itself. They inverted the Cathedral of Unseeing, turning it into a beacon for those who wished to "awaken," and their rituals grew bolder, their reach longer.  
-
-Today, the Hollow Veil stands as a **cancer upon the world**, its influence spreading through forgotten places and desperate minds. Wherever truth is too heavy to bear, they offer the mercy of oblivion.  
-
-
-### **Timeline**  
-- **The First Revelation (3rd Era, 412)**: Ithros reads the *Tome of Unseen Truths* and founds the original sect beneath Vorthas. The city is swallowed by the earth.  
-- **The Scattered Years (3rd–4th Era)**: The cult survives as a whispered rumor, haunting ruins and madhouses.  
-- **The Unwoven Ascension (4th Era, 721)**: Malrik discovers the *Mirror of Unmaking* and becomes the Voice of the Void.  
-- **The Inversion (4th Era, 802)**: The Cathedral of Unseeing is "corrected"—its floors become ceilings, its spires plunge into the earth.  
-- **The Present (5th Era)**: The Hollow Veil’s cells operate across the world, each working to peel back the layers of the false reality.  
+ 
 
 
 ![Leader image](https://uploadkon.ir/uploads/992723_25Leader-Malrik-the-Unwoven.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
@@ -4479,6 +4463,24 @@ Today, the Hollow Veil stands as a **cancer upon the world**, its influence spre
 :
 }}
   
+### History
+The Hollow Veil traces its origins to the doomed city of **Vorthas**, a once-great center of learning whose scholars delved too greedily into the nature of reality. Among them was **Philosopher-Celebrant Ithros**, who, while studying the *Tome of Unseen Truths*, became convinced that the world was an illusion—a grand deception woven by unseen jailers to blind mortals from the purity of the Void. His teachings attracted a small circle of disillusioned scholars, who met in the catacombs beneath Vorthas, performing rituals to "thin the Veil."  
+
+Their work was deemed heretical, and when the city’s high priests uncovered their blasphemies, Ithros and his followers were sentenced to execution. But on the eve of their burning, the ground split open beneath Vorthas, swallowing the city whole. Only the cultists survived, dragged into the depths by something that whispered promises of revelation. They emerged days later, their eyes hollowed out, speaking of a **"great Unseeing"** that had shown them the truth.  
+
+For centuries, the Hollow Veil lingered in the ruins of dead civilizations, gathering the lost and the broken—philosophers driven mad by their own questions, artists who saw too much, and mystics who could no longer bear the weight of false reality. Their numbers grew in secret, always one step ahead of those who sought to stamp them out.  
+
+Their turning point came when the blind prophet **Malrik the Unwoven** unearthed the *Mirror of Unmaking* in the corpse-city of Il’Morthis. Gazing into it, he saw the Material Plane for what it truly was—a fragile illusion, fraying at the edges. Under his leadership, the cult abandoned shadows and began its **great work**: the systematic unraveling of reality itself. They inverted the Cathedral of Unseeing, turning it into a beacon for those who wished to "awaken," and their rituals grew bolder, their reach longer.  
+
+Today, the Hollow Veil stands as a **cancer upon the world**, its influence spreading through forgotten places and desperate minds. Wherever truth is too heavy to bear, they offer the mercy of oblivion.  
+
+
+### Timeline  
+- **The First Revelation (3rd Era, 412)**: Ithros reads the *Tome of Unseen Truths* and founds the original sect beneath Vorthas. The city is swallowed by the earth.  
+- **The Scattered Years (3rd–4th Era)**: The cult survives as a whispered rumor, haunting ruins and madhouses.  
+- **The Unwoven Ascension (4th Era, 721)**: Malrik discovers the *Mirror of Unmaking* and becomes the Voice of the Void.  
+- **The Inversion (4th Era, 802)**: The Cathedral of Unseeing is "corrected"—its floors become ceilings, its spires plunge into the earth.  
+- **The Present (5th Era)**: The Hollow Veil’s cells operate across the world, each working to peel back the layers of the false reality. 
 
 {{wide
 
@@ -4490,7 +4492,7 @@ Today, the Hollow Veil stands as a **cancer upon the world**, its influence spre
 
 \page
 
-::
+:
 ### Location and Base
 The Hollow Veil operates from the Cathedral of Unseeing, a once-sacred temple now suspended upside-down within a blighted valley where gravity warps unpredictably. Its shatered stained-glass windows weep black oil, and the pews float in eerie silence, defying natural law. Hidden beneath the cathedral lies the Chamber of Whispers, where the cult’s stolen Oracle children are kept in lightless cells, their mutterings echoing through the halls. The land around the cathedral is cursed—reflections move on their own, and those who linger too long begin to forget their own faces. Authorities avoid the region, believing it a gateway to something far worse than death.
 :
@@ -4498,18 +4500,20 @@ The Hollow Veil operates from the Cathedral of Unseeing, a once-sacred temple no
 A defining and most feared feature of the Hollow Veil's sanctum is the Whispering Void—a ritual chamber carved into the bedrock of unreality, where the fabric of the Material Plane is said to wear thin. The walls are etched with spirals and sigils in languages not meant for mortal tongues, pulsing faintly as if alive. The very air in the chamber hums with fractured sound—disembodied murmurs, hissing syllables, and the indistinct echoes of voices long since unmade. Cult doctrine claims these are the final utterances of souls who have fully unraveled, their essence absorbed by the Void and now endlessly repeating its truths. Within this dim, silent-lit chamber, initiates are led to sit or kneel beside faultlines in the stone—fissures through which the Void is thought to "speak." There, in utter darkness, they press their ears to the cracks and listen. What they hear cannot be written or remembered in ordinary terms; it is not sound but understanding, raw and wordless, peeling away the illusions of being. Some crawl back from the edge with new insight, their faith deepened, their perception changed forever. Others do not return whole. A few are found staring blankly, muttering fragments of alien concepts until their minds collapse inwards; some vanish entirely, leaving behind only a faint scorched mark where their body once knelt. To the cult, this is no failure—it is ascension
 :
 ### Public Perception
-To the outside world, the Hollow Veil is a whispered nightmare—a cautionary tale of madness made manifest. Most commoners regard them with superstitious dread, blaming them for unexplained disappearances, crops that wither overnight, or reflections that move on their own. Parents frighten disobedient children with stories of the "Blind Ones" who steal the faces of those who stare too long into mirrors. Scholars and clergy denounce them as heretics who court annihilation, while city guards burn their sigils wherever they are found. Yet, a dark fascination lingers among the desperate and disillusioned—the broken, the terminally ill, and those who have glimpsed the abyss themselves. These lost souls sometimes seek out the cult, drawn by rumors of "truth" beyond the illusion of life. Authorities ruthlessly suppress such whispers, for the Hollow Veil’s greatest threat is not their rituals, but the seductive simplicity of their nihilism—the idea that all suffering, all struggle, might simply be unmade.
+To the outside world, the Hollow Veil is a whispered nightmare—a cautionary tale of madness made manifest. Most commoners regard them with superstitious dread, blaming them for unexplained disappearances, crops that wither overnight, or reflections that move on their own. Parents frighten disobedient children with stories of the "Blind Ones" who steal the faces of those who stare too long into mirrors. Scholars and clergy denounce them as heretics who court annihilation, while city guards burn their sigils wherever they are found. Yet, a dark fascination lingers among the desperate and disillusioned—the broken, the terminally ill, and those who have glimpsed the abyss themselves. These lost souls sometimes seek out the cult, drawn by rumors of "truth" beyond the illusion of life. 
 :
-### Membership
-The Hollow Veil draws its ranks from society’s shatered and disillusioned—philosophers driven mad by unanswerable truths, grieving souls seeking escape from pain, and outcasts who see the world’s cruelty as proof of its falseness. Initiates endure the First Cut, a ritual where they carve the cult’s sigil into their flesh; those who flinch are deemed unworthy and left to bleed out. The most devout become Flensed Ones, peeling away skin to "shed the lies of the body," while others serve as Whisperers, spreading the cult’s doctrines through poisoned riddles. The inner circle, the Unseen, are hollow-eyed fanatics who have removed their senses one by one, believing blindness, deafness, and muteness to be pathways to enlightenment. Children stolen for their "pure sight" are groomed as Oracles, their voices silenced to better channel the Void’s murmurs. Few join willingly—most are broken first, then remade in the cult’s grotesque image.
-:
-### Code of Conduct
-The Hollow Veil operates under a ruthless doctrine of "Unbinding the Self." Members must reject all illusions—lying is forbidden, pain is embraced as revelation, and the body is treated as a prison to be mutilated or discarded. Blind obedience is demanded from those who still possess senses, while the eyeless Unseen dictate the cult’s will without question. The highest law is the pursuit of the Void’s "truth," no matter the cost—even if it means sacrificing fellow cultists or unraveling one’s own mind. Weakness is purged; hesitation is betrayal. To question the path is to prove oneself still trapped in the lie of existence. 
+ 
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### Lissandra the Whispering
 {margin-left:-12px}
 :::::::::
+Authorities ruthlessly suppress such whispers, for the Hollow Veil’s greatest threat is not their rituals, but the seductive simplicity of their nihilism—the idea that all suffering, all struggle, might simply be unmade.
+### Membership
+The Hollow Veil draws its ranks from society’s shatered and disillusioned—philosophers driven mad by unanswerable truths, grieving souls seeking escape from pain, and outcasts who see the world’s cruelty as proof of its falseness. Initiates endure the First Cut, a ritual where they carve the cult’s sigil into their flesh; those who flinch are deemed unworthy and left to bleed out. The most devout become Flensed Ones, peeling away skin to "shed the lies of the body," while others serve as Whisperers, spreading the cult’s doctrines through poisoned riddles. The inner circle, the Unseen, are hollow-eyed fanatics who have removed their senses one by one, believing blindness, deafness, and muteness to be pathways to enlightenment. Children stolen for their "pure sight" are groomed as Oracles, their voices silenced to better channel the Void’s murmurs. Few join willingly—most are broken first, then remade in the cult’s grotesque image.
+:
+### Code of Conduct
+The Hollow Veil operates under a ruthless doctrine of "Unbinding the Self." Members must reject all illusions—lying is forbidden, pain is embraced as revelation, and the body is treated as a prison to be mutilated or discarded. Blind obedience is demanded from those who still possess senses, while the eyeless Unseen dictate the cult’s will without question. The highest law is the pursuit of the Void’s "truth," no matter the cost—even if it means sacrificing fellow cultists or unraveling one’s own mind. Weakness is purged; hesitation is betrayal. To question the path is to prove oneself still trapped in the lie of existence.
 ### Secret
 The cult’s nihilistic dogma is a lie. The Void they worship is not an absence—it is a hungry entity, a starved elder thing from beyond reality that wants the Material Plane unmade so it can feast on the dying echoes of existence. The "truth" they preach is merely the entity’s whispered lure, a deception to turn its victims into willing butchers of their own world.
 
@@ -4735,23 +4739,7 @@ The Hollowborn operate as a twisted mockery of a family, their structure mirrori
 
 :
 ### History
-The Hollowborn began with a single, stolen breath—the first gasp of **Stillborn Eleanora**, whose lungs filled not with air, but with the whispers of the Hollow Matron. The child’s mother, **Midwife Vespera the Hollowed**, had carried her corpse for three days, refusing to let go, until the Matron’s voice slithered into her ear: *"Give me one who never cried, and I will return a child who never dies."* That night, Vespera swapped a healthy infant for a doll of grave-clay and rot, offering the living babe to the Matron’s altar. By dawn, the changeling in the crib had drawn breath, its hollow eyes blinking with something almost like life.  
-
-Their true power awoke when they discovered the **Cradle of Living Dust**, an artifact woven from the placentas of stillborn kings. When filled with stolen breath, the Cradle didn’t just mimic life—it *replaced* it, crafting perfect facsimiles that grew alongside their unwitting families. Their first masterpiece, **The Grand Replacement**, saw an entire village’s children swapped over a single moonless night. No one noticed. No one *ever* noticed. The Hollowborn grew, recruiting grieving mothers and childless fathers, their ranks swelling with those who would rather have a false child than none at all.  
-
-A faction sought to use the Cradle not just to replace, but to *perfect*—to sculpt children who would never disobey, never disappoint, never die. The ensuing conflict, the **Culling of the Unworthy**, saw rival midwives poisoning pregnancies to harvest "purer" stock, while grave-nurses strangled infants deemed too flawed for the Matron’s design. The war ended when Vespera (or something wearing her skin) appeared in the nursery and *"blessed"* every living changeling at once. The survivors awoke with their wombs sewn shut, knowing only that they must **keep feeding the Matron**.  
-
-Their magnum opus—**The Thousandfold Stillbirth**—proved their ultimate thesis: *innocence could be preserved forever, if never allowed to live*. A generation’s worth of stolen potential was distilled into a single, pulsing womb—the Hollow Matron’s new body, waiting to be born. By the ritual’s end, the cribs were empty, the mothers were silent, and the Matron’s laughter echoed through the hollows of the earth.  
-
-Now, they walk among the living, their **Hearth-Aunts** and **Grief-Fathers** harvesting not just children, but the *idea* of children—the hopes, the names, the futures left unfulfilled. Their next ritual? The **Final Lullaby**, where every cradle in the world will rock in unison, and the Matron will open her eyes at last.  
-
----
-- **Founding Era:** Vespera the Hollowed performs the first **Breath-Theft** upon Stillborn Eleanora.  
-- **Discovery Era:** The **Cradle of Living Dust** is unearthed from a royal crypt.  
-- **Expansion Era:** The **Grand Replacement** swaps an entire village’s children unnoticed.  
-- **Schism Era:** The **Culling of the Unworthy** divides the cult over purity versus hunger.  
-- **Ascendance Era:** The **Thousandfold Stillbirth** merges a generation’s stolen potential.  
-- **Present Era:** The Hollowborn prepare the **Final Lullaby**—the Matron’s rebirth. 
+The Hollowborn began with a single, stolen breath—the first gasp of **Stillborn Eleanora**, whose lungs filled not with air, but with the whispers of the Hollow Matron. The child’s mother, **Midwife Vespera the Hollowed**, had carried  
 
 
 ![Leader image](https://uploadkon.ir/uploads/8e1723_25Leader-Mother-Hollowvein.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
@@ -4776,6 +4764,23 @@ Now, they walk among the living, their **Hearth-Aunts** and **Grief-Fathers** ha
 :
 }}
   
+her corpse for three days, refusing to let go, until the Matron’s voice slithered into her ear: *"Give me one who never cried, and I will return a child who never dies."* That night, Vespera swapped a healthy infant for a doll of grave-clay and rot, offering the living babe to the Matron’s altar. By dawn, the changeling in the crib had drawn breath, its hollow eyes blinking with something almost like life.  
+
+Their true power awoke when they discovered the **Cradle of Living Dust**, an artifact woven from the placentas of stillborn kings. When filled with stolen breath, the Cradle didn’t just mimic life—it *replaced* it, crafting perfect facsimiles that grew alongside their unwitting families. Their first masterpiece, **The Grand Replacement**, saw an entire village’s children swapped over a single moonless night. No one noticed. No one *ever* noticed. The Hollowborn grew, recruiting grieving mothers and childless fathers, their ranks swelling with those who would rather have a false child than none at all.  
+
+A faction sought to use the Cradle not just to replace, but to *perfect*—to sculpt children who would never disobey, never disappoint, never die. The ensuing conflict, the **Culling of the Unworthy**, saw rival midwives poisoning pregnancies to harvest "purer" stock, while grave-nurses strangled infants deemed too flawed for the Matron’s design. The war ended when Vespera (or something wearing her skin) appeared in the nursery and *"blessed"* every living changeling at once. The survivors awoke with their wombs sewn shut, knowing only that they must **keep feeding the Matron**.  
+
+Their magnum opus—**The Thousandfold Stillbirth**—proved their ultimate thesis: *innocence could be preserved forever, if never allowed to live*. A generation’s worth of stolen potential was distilled into a single, pulsing womb—the Hollow Matron’s new body, waiting to be born. By the ritual’s end, the cribs were empty, the mothers were silent, and the Matron’s laughter echoed through the hollows of the earth.  
+
+Now, they walk among the living, their **Hearth-Aunts** and **Grief-Fathers** harvesting not just children, but the *idea* of children—the hopes, the names, the futures left unfulfilled. Their next ritual? The **Final Lullaby**, where every cradle in the world will rock in unison, and the Matron will open her eyes at last.  
+
+### Timeline
+- **Founding Era:** Vespera the Hollowed performs the first **Breath-Theft** upon Stillborn Eleanora.  
+- **Discovery Era:** The **Cradle of Living Dust** is unearthed from a royal crypt.  
+- **Expansion Era:** The **Grand Replacement** swaps an entire village’s children unnoticed.  
+- **Schism Era:** The **Culling of the Unworthy** divides the cult over purity versus hunger.  
+- **Ascendance Era:** The **Thousandfold Stillbirth** merges a generation’s stolen potential.  
+- **Present Era:** The Hollowborn prepare the **Final Lullaby**—the Matron’s rebirth.
 
 {{wide
 
@@ -4799,18 +4804,16 @@ The cult's most disturbing trait is their Changelings' Growth. The doll-like rep
 ### Public Perception
 To the outside world, the Hollowborn are nothing more than a particularly devout order of midwives and orphanage keepers. Their reputation is spotless; they’re known for taking in unwanted pregnancies, comforting grieving parents, and finding homes for "difficult" children. This perception is their greatest weapon. When a child goes missing near their orphanages, people assume it was simply adopted. When a changeling acts strangely, they’re called "touched by grief" or "blessedly simple." The few who suspect the truth are quietly visited by a Grief-Father in the night—and by morning, they remember only that they were being foolish. After all, what kind of monster would steal a child?
 :
-### Membership
-The Hollowborn recruit from three pools: the Broken (parents who have lost children), the Empty (those who can never conceive), and the Willing (those who simply crave the power to shape life itself). Initiates undergo the Rite of the Unseen Midwife, where they must successfully swap an infant without the parents noticing, then care for the changeling as it "grows." The highest ranks, the Umbilical Choir, have had their reproductive organs surgically replaced with sacs of living grave-dust, allowing them to birth new changelings directly. Unlike other cults, there is no betrayal—only the Matron’s will, which flows through them like mother’s milk.
-:
-### Code of Conduct
-The Hollowborn operate under the Doctrine of the Unseen Womb, which dictates that all life is merely clay waiting to be sculpted by the Matron’s will. Their most sacred law is "Never let them notice"—every theft must be perfectly replaced, every grief perfectly mirrored. Members communicate through nursery rhymes with inverted meanings, their true intentions hidden in lullabies and swaddling cloth patterns. Punishment for failure is not death, but "reassignment"—the offending member becomes the next changeling, their memories rewritten to believe they were always the replacement. The only unforgivable sin is sentimentality; to mourn a stolen child as anything but an offering is to deny the Matron’s grace. 
+
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Cradle-Singe
 {margin-left:-12px}
 :::::::::
-### Secret
-The Harp's cords must be periodically "retuned" with fresh stillborn amniotic fluid. If dried completely (exposed to sunlight for 24 hours), all active changelings within 10 miles crumble to dust and the Matron's connection weakens.
+### Membership
+The Hollowborn recruit from three pools: the Broken (parents who have lost children), the Empty (those who can never conceive), and the Willing (those who simply crave the power to shape life itself). Initiates undergo the Rite of the Unseen Midwife, where they must successfully swap an infant without the parents noticing, then care for the changeling as it "grows." The highest ranks, the Umbilical Choir, have had their reproductive organs surgically replaced with sacs of living grave-dust, allowing them to birth new changelings directly. Unlike other cults, there is no betrayal—only the Matron’s will, which flows through them like mother’s milk.
+:
+
 
 
 
@@ -4836,7 +4839,7 @@ The Harp's cords must be periodically "retuned" with fresh stillborn amniotic fl
 #### Description
 This grotesque instrument is strung with preserved umbilical cords that hum with stolen first breaths. Its frame is carved from fused infant bones, each etched with the name of a child who never drew breath. When plucked, it doesn't produce music—it plays *the lives that might have been*, weaving alternate futures from stolen potential.  
 
----
+\column
 
 #### **Properties**  
 - **Lullaby of Lost Tomorrows:** As an action, play a melody that forces creatures within 30 ft. to relive memories of lives they never lived (DC 18 Wis save or be incapacitated by visions for 1d4 rounds).  
@@ -4854,7 +4857,7 @@ This grotesque instrument is strung with preserved umbilical cords that hum with
 
 
 
-![Item image](https://uploadkon.ir/uploads/0a0823_25Item-The-Hollowborn-The-Hollowborn-s-Cursed-Artifact.jpg) {position:absolute,bottom:-10%,left:0%,width:100%}
+![Item image](https://uploadkon.ir/uploads/0a0823_25Item-The-Hollowborn-The-Hollowborn-s-Cursed-Artifact.jpg) {position:absolute,bottom:-10%,left:0%,width:108%}
 
 ![background image](https://i.postimg.cc/ZKt71NWJ/Cult-fram-6-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -4976,6 +4979,11 @@ Play up the uncanny valley of changelings—they're almost perfect, but blink to
 {{wide
 ::
 }}
+### Code of Conduct
+The Hollowborn operate under the Doctrine of the Unseen Womb, which dictates that all life is merely clay waiting to be sculpted by the Matron’s will. Their most sacred law is "Never let them notice"—every theft must be perfectly replaced, every grief perfectly mirrored. Members communicate through nursery rhymes with inverted meanings, their true intentions hidden in lullabies and swaddling cloth patterns. Punishment for failure is not death, but "reassignment"—the offending member becomes the next changeling, their memories rewritten to believe they were always the replacement. The only unforgivable sin is sentimentality; to mourn a stolen child as anything but an offering is to deny the Matron’s grace. 
+### Secret
+The Harp's cords must be periodically "retuned" with fresh stillborn amniotic fluid. If dried completely (exposed to sunlight for 24 hours), all active changelings within 10 miles crumble to dust and the Matron's connection weakens.
+
 ### Hook I
 The noble family of House Vaelith has not slept in weeks. Their newborn daughter, Lady Liora, has not cried since birth—not when hungry, not when cold, not even when the family dog inexplicably died in her nursery. The crib rocks on its own each midnight, moving to a lullaby no one else hears. The wet nurse resigned after claiming the infant’s eyes "weren’t right"—too knowing, too old. Now the portraits along the grand hall show an extra child no one remembers posing for, a pale girl with Lady Liora’s face but decades older, standing just behind each family member like a shadow.
 
@@ -4992,7 +5000,8 @@ The party has until the next new moon to act—that’s when the Matron’s Gran
 
 
 ### Encounter table
-|----|-----------|---------|  
+| Roll | Encounter | Description |  
+|:------:|:---------:|------------|    
 | 1 | **Grave-Nurses (1d4)** | Midwives with surgical tools that extract memories along with organs |  
 | 2 | **The Unchild** | A changeling that outlived its "family" and now hungers for real flesh |  
 | 3 | **Womb-Puppet** | Animated placenta that spews hallucinogenic amniotic fluid |  
@@ -5043,29 +5052,12 @@ The Iron Hymn is structured like a mercenary legion, but its ranks are forged in
 
 :
 ### History
-The Iron Hymn began with a single, unbroken scream—the last breath of **Warlord Krazak the Undefeated**, who refused to die even as his body was split from collar to groin. As his blood soaked the battlefield, his rival knelt to claim his axe—only for Krazak’s corpse to seize the weapon and bury it in the victor’s skull. The fallen warlord rose, his wounds stitched together by invisible threads of rage, and turned to the survivors with a grin of broken teeth. *"This isn’t over,"* he rasped. *"It will never be over."*  
-
-Their true power awoke when they uncovered the **Anvil of the First War**, a massive slab of black iron that rang with the echoes of every battle ever fought. When weapons were forged upon it, they carried the memory of ancient bloodshed—and those slain by them rose again as hollow-eyed revenants, compelled to fight until their bodies were dust. Their first crusade, **The Hundred-Year Slaughter**, turned a border skirmish into an endless meat grinder, where the dead on both sides kept returning to the fray until the land itself drowned in gore. The Hymn grew, recruiting butchers and strategists alike, their bodies marked with ritual scars that pulsed like fresh wounds whenever violence neared.  
-
-A faction sought to use the Anvil not just to resurrect warriors, but to **unmake peace itself**—to reforge the world into a crucible where conflict was as natural as breathing. The ensuing **Schism of Steel** saw brother turn against brother in battles where the fallen rose mid-fight to kill their former allies. The war ended when Krazak (or the thing wearing his skin) split the Anvil with his axe, sending shards of it embedding into every warrior present. The survivors awoke with iron in their veins, knowing only that they must **keep killing**.  
-
-Their magnum opus—**The War Without End**—proved their ultimate truth: *battle was the only pure state of being*. An entire nation became trapped in a single, repeating battle, its soldiers dying and reviving in an endless loop of slaughter. When the dust settled, only the Hymn remained standing, their weapons forever sharp, their thirst forever unquenched.  
-
-Now, they walk among kings and beggars alike, their **Heralds** and **Forge-Priests** stoking the embers of war in every heart. Their next campaign? **The Final Onslaught**, where the world will learn the last lesson: *"There is no victory—only the next fight."*  
-
----
-
-- **Founding Era:** Krazak the Undefeated rises from death in the **Battle of Screaming Iron**.  
-- **Discovery Era:** The **Anvil of the First War** is unearthed, granting power over the slain.  
-- **Expansion Era:** The Hymn turns minor conflicts into eternal battlegrounds.  
-- **Schism Era:** The **Schism of Steel** fractures the cult over war’s purpose.  
-- **Ascendance Era:** **The War Without End** traps a nation in perpetual battle.  
-- **Present Era:** The Hymn prepares **The Final Onslaught**—a war to outlast time itself.  
+The Iron Hymn began with a single, unbroken scream—the last breath of **Warlord Krazak the Undefeated**, who refused to die even as his body was split from collar to groin. As his blood soaked the battlefield, his rival knelt to claim his axe—only for Krazak’s corpse to seize the weapon and bury it in the victor’s skull. The fallen warlord  
 
 
 ![Leader image](https://uploadkon.ir/uploads/055f23_25Leader-High-Marshal-Varek-the-Unbroken.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:350px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/526323_25Emblem-The-Iron-Hymn.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
@@ -5085,47 +5077,66 @@ Now, they walk among kings and beggars alike, their **Heralds** and **Forge-Prie
 :
 }}
   
+rose, his wounds stitched together by invisible threads of rage, and turned to the survivors with a grin of broken teeth. *"This isn’t over,"* he rasped. *"It will never be over."*  
+
+Their true power awoke when they uncovered the **Anvil of the First War**, a massive slab of black iron that rang with the echoes of every battle ever fought. When weapons were forged upon it, they carried the memory of ancient bloodshed—and those slain by them rose again as hollow-eyed revenants, compelled to fight until their bodies were dust. Their first crusade, **The Hundred-Year Slaughter**, turned a border skirmish into an endless meat grinder, where the dead on both sides kept returning to the fray until the land itself drowned in gore. The Hymn grew, recruiting butchers and strategists alike, their bodies marked with ritual scars that pulsed like fresh wounds whenever violence neared.  
+
+A faction sought to use the Anvil not just to resurrect warriors, but to **unmake peace itself**—to reforge the world into a crucible where conflict was as natural as breathing. The ensuing **Schism of Steel** saw brother turn against brother in battles where the fallen rose mid-fight to kill their former allies. The war ended when Krazak (or the thing wearing his skin) split the Anvil with his axe, sending shards of it embedding into every warrior present. The survivors awoke with iron in their veins, knowing only that they must **keep killing**.  
+
+Their magnum opus—**The War Without End**—proved their ultimate truth: *battle was the only pure state of being*. An entire nation became trapped in a single, repeating battle, its soldiers dying and reviving in an endless loop of slaughter. When the dust settled, only the Hymn remained standing, their weapons forever sharp, their thirst forever unquenched.  
+
+Now, they walk among kings and beggars alike, their **Heralds** and **Forge-Priests** stoking the embers of war in every heart. Their next campaign? **The Final Onslaught**, where the world will learn the last lesson: *"There is no victory—only the next fight."*  
+
+### Timeline
+
+- **Founding Era:** Krazak the Undefeated rises from death in the **Battle of Screaming Iron**.  
+- **Discovery Era:** The **Anvil of the First War** is unearthed, granting power over the slain.  
+- **Expansion Era:** The Hymn turns minor conflicts into eternal battlegrounds.  
+- **Schism Era:** The **Schism of Steel** fractures the cult over war’s purpose.  
+- **Ascendance Era:** **The War Without End** traps a nation in perpetual battle.  
+- **Present Era:** The Hymn prepares **The Final Onslaught**—a war to outlast time itself. 
 
 {{wide
 
 
 }}
 ![Location Image](https://uploadkon.ir/uploads/a12523_25Location-The-Iron-Hymn-The-Hall-of-Broken-Oaths.jpg) {position:absolute,top:0px,right:00px,width:110%,height:}
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:57.4%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:57.4%,left:0%,height:6.5%,width:270px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/DynQrPW4/Cult-fram-2-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
 \page
 
-::
+:
 ### Location and Base
 The Iron Hymn's stronghold was once a grand cathedral dedicated to a god of peace, now desecrated into a monument to eternal war. Its vaulted ceilings hang with the shredded remains of surrender treaties and marriage contracts, each parchment dangling on chains made from melted-down peace medals. The stained glass windows have been replaced with panels of frozen blood depicting history's greatest massacres, illuminated from behind by ever-burning pyres of enemy banners.
 
 Beneath the main hall lies the Pit of Echoing Steel, where the cult stores weapons taken from fallen warriors. Here, blades embedded in the walls whisper the final thoughts of their former owners, creating a perpetual murmur of dying regrets. At the center stands the Anvil of War, a massive block of iron forged from a thousand surrendered swords, where new weapons are hammered out to the rhythm of prisoners' screams. The air smells of iron, smoke, and something unnervingly sweet - the scent of the hallucinogenic war-paste smeared on initiates' weapons before battle.
-:
+
 ### Pecularity
 The cult's most disturbing trait is their Bloodsong Ritual, performed before every major battle. As warriors sharpen their blades, the Hymn's priests lead them in a haunting chant where every verse must be punctuated by self-inflicted wounds. The resulting chorus - a harmony of steel slicing flesh, pained gasps, and dripping blood - creates an eerie battle hymn that seems to echo across the battlefield regardless of distance. Those who survive these battles report hearing the same melody in their dreams, and deserters often find themselves unconsciously humming it during moments of violence. The song never truly leaves those who hear it, growing louder in their minds during each subsequent fight until they either embrace the Hymn's ways or go mad.
-:
+
 ### Public Perception
 To outsiders, the Iron Hymn are either revered as unstoppable mercenaries or feared as demonic warmongers—but never truly understood. Kings hire them for their brutality, only to find their wars spiraling beyond control. Survivors speak of battles where the Hymn’s warriors took wounds that should have killed them, only to keep fighting with grinning, bloodied teeth. The cult cares nothing for this reputation, for they know the truth: all who witness war eventually crave it. Their greatest weapon isn’t steel, but the creeping realization in their enemies’ hearts that maybe, just maybe, the Hymn is right.
-:
+
 ### Membership
-The Iron Hymn draws its ranks from three types: the Blooded (veterans who can’t function outside war), the Hollow (broken souls who only feel alive in battle), and the Forged (children raised on the Anvil’s steel, their bones laced with metal). Initiates undergo the Rite of the Open Wound, where they must endure a mortal injury without crying out before being healed by the Forge-Priests’ searing irons. The highest ranks, the Eternal Legion, are warriors who have died and been resurrected so many times they no longer remember their original faces, their bodies more scar tissue than flesh.
-:
-### Code of Conduct
-The cult operates under the Doctrine of the Unbroken Blade: surrender is the only sin, and mercy is punishable by flaying. Members communicate through "blood runes"—messages carved into flesh that heal into scars, ensuring every word is remembered in pain. Disputes are settled in the Pit of Echoing Steel, where combatants fight until one yields, though yielding means exile into the wilderness with a slow-acting poison and a dull knife. The only unpardonable crime is to die without taking an enemy with you—those who fail are resurrected as mindless revenants and thrown into the front lines of the next battle as penance. 
+The Iron Hymn draws its ranks from three types: the Blooded (veterans who can’t function outside war), the Hollow (broken souls who only feel alive in battle), and the Forged (children raised on the Anvil’s steel, their bones laced with metal). Initiates undergo the Rite of 
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Dirgeborn
 {margin-left:-12px}
-:::::::::
-### Secret
-The Iron Hymn's greatest vulnerability lies in their Blood Oaths - each member ritually swears fealty using their true name carved into the Crucible's blade. If the original Crucible is destroyed (requiring it to be sheathed in a living pacifist's heart), every oathsworn member suffers excruciating pain when wielding weapons until they atone for their sins.
+:::::::
+the Open Wound, where they must endure a mortal injury without crying out before being healed by the Forge-Priests’ searing irons. The highest ranks, the Eternal Legion, are warriors who have died and been resurrected so many times they no longer remember their original faces, their bodies more scar tissue than flesh.
+
+### Code of Conduct
+The cult operates under the Doctrine of the Unbroken Blade: surrender is the only sin, and mercy is punishable by flaying. Members communicate through "blood runes"—messages carved into flesh that heal into scars, ensuring every word is remembered in pain. Disputes are settled in the Pit of Echoing Steel, where combatants fight until one yields, though yielding means exile into the wilderness with a slow-acting poison and a dull knife. The only unpardonable crime is to die without taking an enemy with you—those who fail are resurrected as mindless revenants and thrown into the front lines of the next battle as penance.
+{font-size:12.6px}
+
 
 
 
 ![Adjudant Iamge](https://uploadkon.ir/uploads/57e323_25The-Dirgeborn.jpg) {position:absolute,top:00px,right:00px,width:508px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:17%,height:%,width:270px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:29%,height:%,width:270px,mix-blend-mode:,rotate:deg}
 
 ![background image](https://i.postimg.cc/Znh8DrVg/Cult-fram-4-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -5287,6 +5298,9 @@ The Iron Hymn never fights fair - have them exploit surrender flags, poison heal
 {{wide
 ::
 }}
+### Secret
+The Iron Hymn's greatest vulnerability lies in their Blood Oaths - each member ritually swears fealty using their true name carved into the Crucible's blade. If the original Crucible is destroyed (requiring it to be sheathed in a living pacifist's heart), every oathsworn member suffers excruciating pain when wielding weapons until they atone for their sins.
+
 ### Hook I
 The border war between Dalmere and Vostok has become a self-sustaining machine of slaughter. Villages on both sides have been razed so many times that the rubble has fused into jagged black monuments. Farmers till their fields with swords strapped to their plows. Children play "funeral" instead of house, burying dolls with the solemn precision of veteran gravediggers.
 
@@ -5304,13 +5318,14 @@ The Hymn's Choir of Steel moves openly now, their priests wearing cassocks made 
 
 
 ### Encounter table
-|----|-----------|  
-| 1 | **Bloodsworn Fanatics** (1d6) - Berserkers with nails hammered through their palms (+5 damage but can't release weapons) |  
-| 2 | **The False Surrender** - Wounded soldiers detonate firebombs when "mercy" is shown |  
-| 3 | **Iron Chaplain** - Warpriest whose prayers inflict bleeding wounds |  
-| 4 | **Herald of Slaughter** - Elite duelist carrying challenge scrolls dipped in venom |  
-| 5 | **The Living Standard** - Prisoner stitched into a war banner that buffs allies |  
-| 6 | **Varek's Shadow** - A phantom general testing the party's worthiness |  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|   
+| 1 | **Bloodsworn Fanatics** (1d6) | Berserkers with nails hammered through their palms (+5 damage but can't release weapons) |  
+| 2 | **The False Surrender** | Wounded soldiers detonate firebombs when "mercy" is shown |  
+| 3 | **Iron Chaplain** | Warpriest whose prayers inflict bleeding wounds |  
+| 4 | **Herald of Slaughter** | Elite duelist carrying challenge scrolls dipped in venom |  
+| 5 | **The Living Standard** | Prisoner stitched into a war banner that buffs allies |  
+| 6 | **Varek's Shadow** | A phantom general testing the party's worthiness |  
 \page
 
 :::::::
@@ -5320,7 +5335,7 @@ The Hymn's Choir of Steel moves openly now, their priests wearing cassocks made 
 {{OrgName
 ## The Laughing Mask
 }}
-:::
+::
 {{monster,orgstat
 {{columns:2,statpart1
 
@@ -5338,15 +5353,16 @@ The Laughing Mask cult seeks to transcend mortality by becoming "perfect vampire
 
 As a reaction when reduced to 0 HP, The Laughing Mask lets out a final, echoing laugh. Each creature that heard it must make a DC 15 Wisdom save. On a failure:
 
-The creature is overcome with manic laughter (incapacitated) for 1d4 rounds
+- They are overcome by manic laughter, incapacitated for 1d4 rounds.
 
-Their face muscles lock into a grotesque grin (disadvantage on Charisma checks) for 1 hour
+- Their face muscles lock into a grotesque grin (disadvantage on Charisma checks) for 1 hour
 
-They forget what they were fighting and why it mattered (erase last 1 minute of memory)
+- They forget the last 1 minute
 
-The Mask then reforms 1d4 days later in a random reflective surface, its laughter growing louder each time it "dies."
+- The Mask then reforms 1d4 days later in a random reflective surface, its laughter growing louder each time it "dies."
 
-Mechanical Twist: The save DC increases by +1 for each previous time the Mask has used this ability in the campaign.
+Mechanical Twist: The save DC increases by +1 for each previous  
+time the Mask has used this ability in the campaign.
 
 
 
@@ -5372,21 +5388,11 @@ Unblooded (aspirants serving as prey or spies)
 
 :
 ### History
-The Laughing Mask began with a single, broken laugh—that of **Elio the Unmourned**, a court jester who saw the rot behind his kingdom’s gilded lies. After his beloved, a fellow performer, was executed for a noble’s amusement, Elio carved a grinning mask from the wood of her gallows and wore it as he burned the royal theater to the ground. The fire spread, consuming the district, and from the ashes emerged the first **Carnival of Knives**—a troupe of outcasts, rebels, and murderers who saw truth in Elio’s creed: *"All the world’s a stage, and all its players must bleed."*  
-Their true power awoke when they discovered the **Commedia Sanguina**, an ancient playbook written in human skin. Its scripts, when performed, warped reality—audiences forgot their names, assassins struck from shadows that weren’t there, and laughter turned to screams mid-breath. Their first grand performance, **The King’s Last Joke**, ended with the monarch clawing out his own eyes, convinced his court was made of puppets. The Carnival grew, its members hiding behind porcelain grins, their crimes dismissed as "madness."  
-A faction sought to use the Commedia not just to kill, but to remake society into a "grand farce" without rulers or rules. The ensuing conflict, the **War of Masks**, turned the Carnival against itself—actors stabbed each other mid-performance, stages collapsed into spike pits, and entire audiences were left catatonic from conflicting illusions. The war ended when Elio (or someone wearing his face) appeared on a burning stage and declared: *"Encore!"* The survivors awoke with their memories of the conflict gone, knowing only that they must **keep performing**.    
-Their masterpiece—**The Laughing Plague of Velmora**—proved their ultimate thesis: *laughter could be a weapon*. An entire city succumbed to hysterics, citizens giggling as they slit throats or danced off rooftops. By dawn, only the Carnival remained, bowing to corpses that still twitched with silent chuckles.    
-Now, they move between noble balls and prison cells, their **Players** and **Puppeteers** wearing stolen faces. Their next act? The **Grand Comedy**, where the world will learn the punchline too late: *"No one survives the show."*  
+The Laughing Mask began with a single, broken laugh—that of **Elio the Unmourned**, a court jester who saw the rot behind his kingdom’s gilded lies. After his beloved, a fellow performer, was executed for a noble’s amusement, Elio carved a grinning mask from the wood of her gallows and wore it as he burned the royal theater to the ground. The fire spread, consuming the district, and from the ashes emerged the first **Carnival of Knives**—a troupe of outcasts, rebels, and murderers who saw truth in Elio’s creed: *"All the world’s a stage, and all its players must bleed."*
 
----
+Their true power awoke when they discovered the **Commedia Sanguina**, an ancient playbook written in human skin. Its scripts, when performed, warped reality—audiences forgot their names, assassins struck from shadows that weren’t there, and laughter turned to screams mid-breath. Their first grand performance, **The King’s Last Joke**, ended with the monarch clawing out his own eyes, convinced his court was made of puppets. The Carnival grew, its members hiding behind porcelain grins, their crimes dismissed as "madness."
 
-### **Timeline of The Laughing Mask**  
-- **Founding Era:** Elio the Unmourned crafts the first mask and burns the royal theater.  
-- **Discovery Era:** The **Commedia Sanguina** is unearthed, granting reality-warping performances.  
-- **Expansion Era:** The Carnival poisons courts and streets with "living theater."  
-- **Schism Era:** The **War of Masks** fractures the troupe over art versus anarchy.  
-- **Ascendance Era:** The **Laughing Plague** proves mass hysteria can be orchestrated.  
-- **Present Era:** The Masks prepare for their **Grand Comedy**—an apocalypse of applause.  
+A faction sought to use the Commedia not just to kill, but to remake society into a "grand farce" without rulers or rules. The ensuing conflict, the **War of Masks**, turned the Carnival against itself—actors stabbed each other mid-performance, stages collapsed into spike pits, and entire audiences were left catatonic from conflicting illusions. The war ended when Elio (or someone wearing his face) appeared on a burning stage and declared: *"Encore!"*  
 
 
 ![Leader image](https://uploadkon.ir/uploads/86b823_25Leader-Lord-Silvain-D-Argent.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
@@ -5411,6 +5417,19 @@ Now, they move between noble balls and prison cells, their **Players** and **Pup
 :
 }}
   
+The survivors awoke with their memories of the conflict gone, knowing only that they must **keep performing**.    
+Their masterpiece—**The Laughing Plague of Velmora**—proved their ultimate thesis: *laughter could be a weapon*. An entire city succumbed to hysterics, citizens giggling as they slit throats or danced off rooftops. By dawn, only the Carnival remained, bowing to corpses that still twitched with silent chuckles.    
+Now, they move between noble balls and prison cells, their **Players** and **Puppeteers** wearing stolen faces. Their next act? The **Grand Comedy**, where the world will learn the punchline too late: *"No one survives the show."*  
+
+
+
+### Timeline
+- **Founding Era:** Elio the Unmourned crafts the first mask and burns the royal theater.  
+- **Discovery Era:** The **Commedia Sanguina** is unearthed, granting reality-warping performances.  
+- **Expansion Era:** The Carnival poisons courts and streets with "living theater."  
+- **Schism Era:** The **War of Masks** fractures the troupe over art versus anarchy.  
+- **Ascendance Era:** The **Laughing Plague** proves mass hysteria can be orchestrated.  
+- **Present Era:** The Masks prepare for their **Grand Comedy**—an apocalypse of applause. 
 
 {{wide
 
@@ -5474,7 +5493,7 @@ This ancient playbook, bound in stitched human skin and inked in blood, contains
 - **The Grand Delusion:** Once per long rest, you can spend 10 minutes performing a full act. Choose a non-magical object or creature within sight—until dawn, all who perceive it believe it to be something else (a king sees his crown as a noose; a sword appears as a rose).  
 - **Final Act:** When you would die, you may instead crumple like a discarded puppet. You reappear 1d4 days later in a random location, missing 1d4 memories (determined by the DM).  
 
-### **Curse of the Laughing Mask**  
+#### **Curse of the Laughing Mask**  
 Attuning to the Commedia binds you to its eternal show. Each performance drains your vitality—your reflection gradually becomes more theatrical (exaggerated smile, puppet-like joints). After three uses, you gain the following flaws:  
 - *"I can't tell if the audience is real."*  
 - *"I must end every conversation with a dramatic bow."*  
@@ -5655,7 +5674,7 @@ The party's investigation leads them to the ruins of the Jovial Menagerie, a onc
 
 ### Encounter table
 | Roll | Title                  | Description                                                                                         |  
-|:----:|------------------------|-----------------------------------------------------------------------------------------------------|  
+|:----:|:-------------:|----------|  
 | 1    | **The Grinning Audience** | 1d4+2 frozen figures sit in a half-circle, their faces locked in silent laughter. One clutches a playbill for *"The Final Joke"*—anyone who reads it must make a DC 15 CHA save or burst into uncontrollable giggles for 1 minute. |  
 | 2    | **The Punchline’s Echo**  | A bloodstained stage appears where none stood before. A disembodied voice whispers *"Why did the rogue cross the road?"* If answered, the responder takes 2d6 psychic damage and *forgets the last 10 minutes*. |  
 | 3    | **The Mask’s Rehearsal** | A doppelgänger of a party member (with a porcelain mask fused to their face) performs their *exact* actions 6 seconds ahead of them. Destroying it curses the original to **repeat their next action** like a broken record. |  
@@ -5705,36 +5724,15 @@ The Mourning Veil offers the most dangerous gift of all—one last moment with t
 The Mourning Veil moves through the world like a funeral procession, each member playing their part in the grand, sorrowful theater. At the lowest tier are the Grieving Ones, initiates who have lost someone dear and come to the Veil seeking solace—they are given small doses of the elixir, just enough to see their loved ones in dreams, but not enough to die. These initiates serve as gatherers, collecting tears, hair, and personal effects from fresh graves to be used in the sacrament. Above them are the Ash-Binders, those who have taken the full elixir and survived—their bodies are forever changed, their hearts beating sluggishly, their skin cold to the touch. They preside over the rituals, guiding the dying through their final visions and collecting the sacred ashes. Higher still are the Hollow Choir, a coven of those who have died and returned too many times—they exist in a twilight state, more memory than flesh, and their whispers can pull the living into waking dreams of the dead. And at the apex stands Mother Elspeth, the Hollow Queen, her body a reliquary of all the Veil has consumed. But even she answers to the voices in the smoke—the countless dead who may or may not be real.
 
 :
-### History
-The Mourning Veil began with a single heartbeat—then the silence that followed it. It began with **Elspeth Varn**, a mortician who embalmed grief itself. When her daughter **Liora** succumbed to a wasting sickness, Elspeth’s skill could no longer preserve what mattered. In her sorrow, she brewed a forbidden elixir from grave dirt, funeral incense, and the final sighs of the dying—*Liora’s Mercy*. When she drank it, she saw her daughter again—alive, laughing, whole. For one blissful hour, they were together. Then her heart stopped.
-
-Elspeth awoke on her own mortuary slab, her blood stilled, her skin cold, her breath gone—but *something* kept her moving. It wasn’t life. It wasn’t death. It was *grief made ritual*. Others came. Widowers. Orphans. Parents with empty cribs. She gave them all a chance to say goodbye, just once more. They drank. They smiled. They died. And she kept their ashes, whispering them back into being.
-
-Their true power awakened with the creation of the **Final Embrace**, a sacrament that didn’t just show the dead—it **bound** the soul’s echo into memory, allowing mourners to relive the same moment over and over. The dead became perfume, memory, and fuel. The Veil’s faithful learned to grind the remains of the departed into incense, weaving ashes into ribbons and prayer beads, *binding souls into ritual*. Temples sprouted beneath abandoned cemeteries and derelict funeral homes—quiet, reverent places filled with soft light and drifting smoke.
-
-It was when the **Weeping Echo** was born—a child made more of soul-residue than flesh—that the cult shifted from comforting grief to **harnessing** it. With each death, each vision, the Echo absorbed the dying’s final truths, compiling a chorus of last words. The Mourning Veil became more than a sanctuary—it became an *archive of endings*, a roadmap to the afterlife. They no longer sought solace. They sought *continuity*.
-
-Now, Mother Elspeth sits like a reliquary queen, hollowed and embalmed, filled with the ashes of her congregation. The Veil prepares for their greatest rite: the **Ashwomb Unveiling**, when they will tear the veil between life and death and birth a new world from grief itself—one where no one must ever say goodbye again.
-
----
-
-
-
-* **Founding Era:** Elspeth Varn drinks *Liora’s Mercy* and returns from death, reborn as **Mother Elspeth the Hollow**.
-* **Sacrament Era:** The *Final Embrace* is perfected, giving mourners one last vision of the dead—at the cost of their lives.
-* **Gathering Era:** The Veil expands through forgotten cemeteries and funeral homes, collecting ashes as sacred relics.
-* **Revelation Era:** The **Weeping Echo** is created, a vessel for the dying’s last words and a prophet of endings.
-* **Preparation Era:** The Veil distills soul-ash into prophecy, seeking a way to dissolve the boundary between death and memory.
-* **Present Era:** They ready the **Ashwomb Unveiling**, aiming to flood the world with endless reunions and eternal grief.
 
 
 ![Leader image](https://uploadkon.ir/uploads/e02923_25Leader-Mother-Elspeth-the-Hollow.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:290px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/82cc23_25Emblem-The-Mourning-Veil.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
-![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg})){{pageNumber,auto}}
+![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg}{{pageNumber,auto}}
 
 \page
 
@@ -5750,6 +5748,28 @@ Now, Mother Elspeth sits like a reliquary queen, hollowed and embalmed, filled w
 :
 }}
   
+### History
+The Mourning Veil began with a single heartbeat—then the silence that followed it. It began with **Elspeth Varn**, a mortician who embalmed grief itself. When her daughter **Liora** succumbed to a wasting sickness, Elspeth’s skill could no longer preserve what mattered. In her sorrow, she brewed a forbidden elixir from grave dirt, funeral incense, and the final sighs of the dying—*Liora’s Mercy*. When she drank it, she saw her daughter again—alive, laughing, whole. For one blissful hour, they were together. Then her heart stopped.
+
+Elspeth awoke on her own mortuary slab, her blood stilled, her skin cold, her breath gone—but *something* kept her moving. It wasn’t life. It wasn’t death. It was *grief made ritual*. Others came. Widowers. Orphans. Parents with empty cribs. She gave them all a chance to say goodbye, just once more. They drank. They smiled. They died. And she kept their ashes, whispering them back into being.
+
+Their true power awakened with the creation of the **Final Embrace**, a sacrament that didn’t just show the dead—it **bound** the soul’s echo into memory, allowing mourners to relive the same moment over and over. The dead became perfume, memory, and fuel. The Veil’s faithful learned to grind the remains of the departed into incense, weaving ashes into ribbons and prayer beads, *binding souls into ritual*. Temples sprouted beneath abandoned cemeteries and derelict funeral homes—quiet, reverent places filled with soft light and drifting smoke.
+
+It was when the **Weeping Echo** was born—a child made more of soul-residue than flesh—that the cult shifted from comforting grief to **harnessing** it. With each death, each vision, the Echo absorbed the dying’s final truths, compiling a chorus of last words. The Mourning Veil became more than a sanctuary—it became an *archive of endings*, a roadmap to the afterlife. They no longer sought solace. They sought *continuity*.
+
+Now, Mother Elspeth sits like a reliquary queen, hollowed and embalmed, filled with the ashes of her congregation. The Veil prepares for their greatest rite: the **Ashwomb Unveiling**, when they will tear the veil between life and death and birth a new world from grief itself—one where no one must ever say goodbye again.
+
+### Timeline
+
+
+
+* **Founding Era:** Elspeth Varn drinks *Liora’s Mercy* and returns from death, reborn as **Mother Elspeth the Hollow**.
+* **Sacrament Era:** The *Final Embrace* is perfected, giving mourners one last vision of the dead—at the cost of their lives.
+* **Gathering Era:** The Veil expands through forgotten cemeteries and funeral homes, collecting ashes as sacred relics.
+* **Revelation Era:** The **Weeping Echo** is created, a vessel for the dying’s last words and a prophet of endings.
+* **Preparation Era:** The Veil distills soul-ash into prophecy, seeking a way to dissolve the boundary between death and memory.
+* **Present Era:** They ready the **Ashwomb Unveiling**, aiming to flood the world with endless reunions and eternal grief.
+
 
 {{wide
 
@@ -5774,17 +5794,17 @@ What sets The Mourning Veil apart is its ritual use of human ash as both relic a
 To outsiders, The Mourning Veil is a morbid curiosity—a cult of comforters, quiet and strange, offering closure to the grieving. They are tolerated in some cities as an odd funeral service or spiritual hospice. But whispers spread of loved ones who never returned from their final vision, of grieving widows who vanish into candlelit crypts. Clerics of death gods call them blasphemous. Necromancers call them soft-hearted. But those who’ve tasted the Final Embrace understand its pull. Who wouldn’t give anything to hold the dead one more time?
 :
 ### Membership
-The cult’s ranks swell not with fanatics, but with mourners—people broken by loss, offered not salvation but reunion. Initiates begin as Ashbearers, tasked with collecting funeral relics and memorizing the final words of the dead. As they consume more of the Final Embrace, they are shaped by it—losing warmth, color, even hunger. High-ranking members, called Votives, are embalmed alive, their organs replaced with sacred objects or ash-filled reliquaries. Some never speak again, their tongues offered as tribute, letting the Echo speak through them.
-:
-### Code of Conduct
-The Mourning Veil follows the Fleshweaver’s Creed, a sacred doctrine written in a language only the dead remember. At its heart is one commandment: "Grief is the only honest truth." Followers must treat the dead with reverence, never raise them as mindless undead, and never speak the name of the deceased without incense. They must record their visions in soot and ash, and never lie during mourning rites. To comfort the grieving is holy—but to ease their grief is sacrilege. Pain is memory. Pain is proof. Pain is prayer. 
+The cult’s ranks swell not with fanatics, but with mourners—people broken by loss, offered not salvation but reunion. Initiates begin as Ashbearers, tasked with collecting funeral relics and memorizing the final words of the dead. As they consume more of the Final Embrace, they are shaped by it—losing warmth, color, even hunger. High-ranking members, called Votives, are embalmed alive, 
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Weeping Echo
 {margin-left:-12px}
 :::::::::
-### Secret
-The Shade Bride, worshiped as a gentle spirit who eases the pain of loss, is in truth a memory vampire—an ancient entity that feeds on sorrow, clinging to the grief of burned souls to grow stronger. Every ritual sacrifice in the Crucible doesn’t send the dead to peace but instead renders their essence into nourishment for her insatiable hunger. Only the cult’s inner circle knows the truth, and its leader, High Mourner Kereval, has no intention of stopping it. After glimpsing the Bride’s true nature in a near-death vision, he chose devotion over resistance, believing that her power can be harnessed. At the coming eclipse, when the boundary between worlds thins, Kereval intends to offer himself as her mortal vessel—fusing his body and her will to become a living icon of endless mourning. His plan hinges on a mass sacrifice cloaked as a citywide act of mercy: a final, peaceful sleep through Ashen Elixir. But the ritual is no salvation—it’s the opening act of her rebirth.
+their organs replaced with sacred objects or ash-filled reliquaries. Some never speak again, their tongues offered as tribute, letting the Echo speak through them.
+:
+### Code of Conduct
+The Mourning Veil follows the Fleshweaver’s Creed, a sacred doctrine written in a language only the dead remember. At its heart is one commandment: "Grief is the only honest truth." Followers must treat the dead with reverence, never raise them as mindless undead, and never speak the name of the deceased without incense. They must record their visions in soot and ash, and never lie during mourning rites. To comfort the grieving is holy—but to ease their grief is sacrilege. Pain is memory. Pain is proof. Pain is prayer. 
+
 
 
 
@@ -5810,7 +5830,7 @@ The Shade Bride, worshiped as a gentle spirit who eases the pain of loss, is in 
 #### Description
 A funeral urn forged from melted-down wedding rings, its surface etched with the final words of the dying. The interior burns with perpetual gray fire that consumes no fuel, only memories. When filled with a creature's ashes, it whispers their last thoughts in the voice of whoever mourns them most.  
 
----
+\column
 
 #### **Properties**  
 - **Last Embrace:** As an action, scatter ashes from the urn. One creature within 30 ft. must make a DC 17 Wisdom save or be paralyzed by visions of a lost loved one (repeat save at end of each turn). While paralyzed, they take 2d6 psychic damage per round but believe they're being comforted.  
@@ -5970,6 +5990,8 @@ Play the Crucible's whispers as both comforting and deeply wrong, like a loved o
 {{wide
 ::
 }}
+### Secret
+The Shade Bride, worshiped as a gentle spirit who eases the pain of loss, is in truth a memory vampire—an ancient entity that feeds on sorrow, clinging to the grief of burned souls to grow stronger. Every ritual sacrifice in the Crucible doesn’t send the dead to peace but instead renders their essence into nourishment for her insatiable hunger. Only the cult’s inner circle knows the truth, and its leader, High Mourner Kereval, has no intention of stopping it. After glimpsing the Bride’s true nature in a near-death vision, he chose devotion over resistance, believing that her power can be harnessed. At the coming eclipse, when the boundary between worlds thins, Kereval intends to offer himself as her mortal vessel—fusing his body and her will to become a living icon of endless mourning. His plan hinges on a mass sacrifice cloaked as a citywide act of mercy: a final, peaceful sleep through Ashen Elixir. But the ritual is no salvation—it’s the opening act of her rebirth.
 ### Hook I
 The party is invited to the Vann Estate for a “celebration of remembrance” by Lady Elira Vann, a noblewoman mourning the recent death of her husband, Lord Marius Vann. The invitation is scented with night jasmine and sealed with a wax sigil in the shape of a skeletal waltz. Upon arrival, they find the estate filled with mourners in elegant attire, sipping from obsidian goblets filled with a pearlescent wine known as Ashen Elixir. The atmosphere is one of surreal joy—a masquerade of grief, where everyone is too happy, too serene.
 
@@ -5995,7 +6017,8 @@ Tella offers the party a choice: help her build the perfect vessel, one that can
 The party believed they were protecting a grieving child. But they were merely the next ingredients in her quiet, porcelain apocalypse.
 
 ### Encounter table
-|----|----------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|    
 | 1 | **Weeping Alchemist** | A robed figure offering "grief relief" from a pearl-handled syringe |  
 | 2 | **The Hospice** | A building where every bed holds a smiling, ash-covered corpse |  
 | 3 | **Ashborn** | A humanoid figure sculpted from compacted funeral remains |  
@@ -6012,7 +6035,7 @@ The party believed they were protecting a grieving child. But they were merely t
 {{OrgName
 ## The Obsidian Veil
 }}
-:::
+::
 {{monster,orgstat
 {{columns:2,statpart1
 
@@ -6028,8 +6051,7 @@ The party believed they were protecting a grieving child. But they were merely t
 The Obsidian Veil seeks to unravel the very fabric of memory, believing that all suffering stems from remembrance—that history, identity, and even consciousness itself are prisons of pain. Their ultimate goal is to summon the Absent One, their eldritch patron, to enact the Final Forgetting, a grand ritual that will erase all knowledge, all pasts, and all selves from existence, leaving the world in a state of blissful, empty stillness. They envision a universe unburdened by the weight of time, where no one remembers war, loss, or even their own names—a hollow paradise where nothing matters, and therefore, nothing hurts. To this end, they steal memories, shatter minds, and hoard forgotten truths, all to weaken the barriers between reality and the Absent One's devouring void. Yet, in their quietest moments, even the Hollowed One wonders: if nothing remains, will their purpose—their own cult—be forgotten too? And is that the point, or the flaw in their design?
 ### Ability
 
-Cultist Ability: "Erasure Touch"
-As an action, the cultist makes a melee spell attack (+5 to hit). On a hit, the target must succeed on a DC 13 Intelligence saving throw or lose a random memory (DM's choice - a person, place, or skill proficiency) for 1 hour. The cultist's eyes flicker with stolen images of the memory.
+**"Erasure Touch"**: As an action, the cultist makes a melee spell attack (+5 to hit). On a hit, the target must succeed on a DC 13 Intelligence saving throw or lose a random memory (DM's choice - a person, place, or skill proficiency) for 1 hour. The cultist's eyes flicker with stolen images of the memory.
 
 
 
@@ -6054,26 +6076,7 @@ And then there are **The Unremembered**, the cult’s true victims: hollow-eyed 
 Here, power is not taken—it is *relinquished*. To ascend is to forget, and the greatest secrets are those even the keepers no longer recall.
 
 :
-### History
-The Obsidian Veil began with a single act of erasure—a grieving scholar, whose name is now lost, shattering a black mirror to escape the weight of memory. This first **Hollowed One** gathered others burdened by history—traumatized veterans, guilt-ridden nobles, and philosophers who saw memory as chains. They formed a secret society, meeting in abandoned scriptoriums and ruined memory temples, where they practiced the art of **unwriting the self**.  
-
-Their first breakthrough came when they discovered the **Black Mirror of Mnemosyne**, an artifact that could not just erase memories, but *consume* them. With it, they performed the **Rite of the Unburdened**, permanently removing a man’s recollection of his murdered family—leaving him serene, hollow, and fanatically loyal. Word spread among the broken and the guilty, and the cult grew in the shadows.  
-
-As their power expanded, so did their ambition. They infiltrated libraries, burned genealogies, and offered their "gifts" to rulers seeking to rewrite history. A schism erupted when a faction sought to use the mirrors to erase *entire events*—leading to the **Silent Purge**, where rival cultists turned their own memories into weapons, forgetting who was friend or foe. The Veil survived, but its practices became even more clandestine.  
-
-In the modern era, the Obsidian Veil operates through **mirror-smiths** and **lore-eaters**, their true purpose hidden behind masks of archivists and therapists. Their crowning atrocity—the **Grand Forgetting of Vorthas**—proved their darkest theory true: a city *can* be unmade, its people left wandering, blissful, and empty.  
-
-Now, they lurk in the highest towers of academia and the lowest dungeons of despair, collecting memories like currency. They wait for the day when the **Absent One** will wake—and the world will finally be free of the past.  
-
-
-
-## Timeline of the Obsidian Veil 
-- **Founding Era:** A nameless scholar shatters the first mirror, forming the cult’s core.  
-- **Discovery Era:** The **Black Mirror of Mnemosyne** is unearthed, allowing true memory theft.  
-- **Expansion Era:** The cult infiltrates libraries and noble courts, offering "forgetting" as a service.  
-- **Schism Era:** The **Silent Purge** fractures the cult over how much history should be erased.  
-- **Ascendance Era:** The **Grand Forgetting of Vorthas** proves entire cities can be unmade.  
-- **Present Era:** The Veil operates in secret, preparing for the Absent One’s awakening.  
+  
 
 
 ![Leader image](https://uploadkon.ir/uploads/d47c23_25Leader-the-Hollowed-One.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
@@ -6082,7 +6085,7 @@ Now, they lurk in the highest towers of academia and the lowest dungeons of desp
 ![emblem](https://uploadkon.ir/uploads/afe723_25Emblem-The-Obsidian-Veil.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
-![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg})){{pageNumber,auto}}
+![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg}{{pageNumber,auto}}
 
 \page
 
@@ -6098,12 +6101,32 @@ Now, they lurk in the highest towers of academia and the lowest dungeons of desp
 :
 }}
   
+### History
+The Obsidian Veil began with a single act of erasure—a grieving scholar, whose name is now lost, shattering a black mirror to escape the weight of memory. This first **Hollowed One** gathered others burdened by history—traumatized veterans, guilt-ridden nobles, and philosophers who saw memory as chains. They formed a secret society, meeting in abandoned scriptoriums and ruined memory temples, where they practiced the art of **unwriting the self**.  
+
+Their first breakthrough came when they discovered the **Black Mirror of Mnemosyne**, an artifact that could not just erase memories, but *consume* them. With it, they performed the **Rite of the Unburdened**, permanently removing a man’s recollection of his murdered family—leaving him serene, hollow, and fanatically loyal. Word spread among the broken and the guilty, and the cult grew in the shadows.  
+
+As their power expanded, so did their ambition. They infiltrated libraries, burned genealogies, and offered their "gifts" to rulers seeking to rewrite history. A schism erupted when a faction sought to use the mirrors to erase *entire events*—leading to the **Silent Purge**, where rival cultists turned their own memories into weapons, forgetting who was friend or foe. The Veil survived, but its practices became even more clandestine.  
+
+In the modern era, the Obsidian Veil operates through **mirror-smiths** and **lore-eaters**, their true purpose hidden behind masks of archivists and therapists. Their crowning atrocity—the **Grand Forgetting of Vorthas**—proved their darkest theory true: a city *can* be unmade, its people left wandering, blissful, and empty.  
+
+Now, they lurk in the highest towers of academia and the lowest dungeons of despair, collecting memories like currency. They wait for the day when the **Absent One** will wake—and the world will finally be free of the past.  
+
+
+
+### Timeline 
+- **Founding Era:** A nameless scholar shatters the first mirror, forming the cult’s core.  
+- **Discovery Era:** The **Black Mirror of Mnemosyne** is unearthed, allowing true memory theft.  
+- **Expansion Era:** The cult infiltrates libraries and noble courts, offering "forgetting" as a service.  
+- **Schism Era:** The **Silent Purge** fractures the cult over how much history should be erased.  
+- **Ascendance Era:** The **Grand Forgetting of Vorthas** proves entire cities can be unmade.  
+- **Present Era:** The Veil operates in secret, preparing for the Absent One’s awakening.
 
 {{wide
 
 
 }}
-![Location Image](https://uploadkon.ir/uploads/3dee23_25Location-The-Obsidian-Veil-The-Ashen-Scriptorium.jpg) {position:absolute,top:0px,right:00px,width:110%,height:}
+![Location Image](https://uploadkon.ir/uploads/3dee23_25Location-The-Obsidian-Veil-The-Ashen-Scriptorium.jpg) {position:absolute,top:-40px,right:00px,width:110%,height:}
 ![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:57.4%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/DynQrPW4/Cult-fram-2-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -6124,14 +6147,18 @@ To outsiders, the Veil is a myth—a ghost story told of people who vanish with 
  The Veil recruits the broken—grieving parents, traumatized soldiers, and disillusioned scholars—offering them solace in emptiness. Initiates endure the First Forgetting, sacrificing a pivotal memory to prove their devotion. Higher ranks, like the Mirrorbound, undergo further excisions until their pasts are hollowed-out ruins. The truly ascended, like the Hollowed One, become living voids, their minds filled only with the stolen memories of others.
 :
 ### Code of Conduct
-The Obsidian Veil operates under a single, chilling principle: "To remember is to suffer; to forget is to be free." Members must willingly surrender painful memories to the Black Mirrors, sever emotional attachments, and embrace the cult’s doctrine of oblivion. Betrayal is impossible—not out of loyalty, but because dissidents are "unmade," their rebellious thoughts erased like all other burdens. The only unforgivable sin is to seek lost memories, for that denies the Absent One’s mercy. 
+The Obsidian Veil operates under a single, chilling principle: "To remember is to suffer; to forget is to be free." 
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Whisper in the Glass
 {margin-left:-12px}
-:::::::::
+::::::::
+Members must willingly surrender painful memories to the Black Mirrors, sever emotional attachments, and embrace the cult’s doctrine of oblivion. Betrayal is impossible—not out of loyalty, but because dissidents are "unmade," their rebellious thoughts erased like all other burdens. The only unforgivable sin is to seek lost memories, for that denies the Absent One’s mercy. 
+:
 ### Secret
-The Veil’s darkest truth is that the Absent One is not a savior—it is a parasite. The stolen memories do not vanish; they feed the entity, which grows stronger with every forgotten name. The Hollowed One knows this, yet presses on, believing oblivion is still kinder than truth. Worse, some mirrors lie—they do not erase, but bury memories deep, where they fester like wounds. A rare few who shatter their mirrors awake screaming, for the past always finds its way back.
+The Veil’s darkest truth is that the Absent One is not a savior—it is a parasite. The stolen memories do not vanish; they feed the entity, which grows stronger with every forgotten name. The Hollowed One knows this, yet presses on, believing oblivion is still kinder than truth. Worse, some mirrors lie—they do not erase, but bury memories deep, where they fester like wounds. A rare few who shatter their mirrors awake screaming, for the past always  
+
+finds its way back.
 
 
 
@@ -6162,12 +6189,12 @@ This jagged fragment of polished obsidian reflects nothing but absence—where a
 - **Oblivion’s Cloak:** While carrying the mirror, you are immune to effects that would read your thoughts or detect your alignment. Any creature attempting to do so must succeed on a DC 17 Intelligence save or lose 1d4 random memories (last 24 hours).  
 - **Echo Strike:** Once per day, you can shatter the mirror in your hand (no action). It reforms in 1d4 days, but until then, your melee attacks deal an additional 3d6 psychic damage as phantom shards lacerate the target’s mind.  
 
-### **Curse of the Absent One**  
+#### **Curse of the Absent One**  
 Attuning to the mirror binds your soul to the Absent One’s hunger. Each time you use *Memory Siphon*, you must roll a d20. On a 1, the mirror *takes something extra*—a skill proficiency, a language, or even the memory of a loved one. These losses are permanent unless restored by a *Wish* or divine intervention.  
 
 Worse, the mirror is always watching. In dreams, you see through the eyes of those whose memories you’ve stolen, witnessing their confusion and despair. Over time, you forget which memories are yours—and which belong to the ghosts in the glass.  
 
-### **Destroying the Mirror**  
+#### **Destroying the Mirror**  
 The mirror can only be shatered in the **Chamber of Black Mirrors**, where its fragments must be dissolved in the tears of someone who *willingly* recovers a stolen memory.   
 
 
@@ -6398,8 +6425,9 @@ The party’s investigations lead them to the Scriptorium of the Hollow, a ruine
 Twist: The Grand Forgetting was never about mercy. The Veil is testing the ritual’s limits before targeting a kingdom. The only way to restore Vorthas is to shatter the central mirror in the Scriptorium—but doing so will unleash every stolen memory at once. The citizens will remember everything: the plague, their lost loved ones, and the cult’s atrocities. Some will go mad. Others may beg for the mirror’s return. The party must decide: Is truth worth the price? Or is oblivion the kinder curse?
 
 ### Encounter table
-| Roll | Title                     | Description                                                                                                                                                                                                              |
-| :--: | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------| 
 |   1  | **The Hollowed Sermon**   | 1d4 Mirrorbound preach to a crowd of hollow-eyed converts, offering *"the gift of forgetting."* Those who listen too long must make a DC 15 WIS save or lose a random memory.                                            |
 |   2  | **The Unremembered**      | 2d6 mind-wiped victims wander a ruined chapel, endlessly repeating the same task (e.g., writing a name they can’t recall). One clutches a black mirror shard—it shows the party’s *worst memory*.                        |
 |   3  | **Echo of the Absent**    | A ghostly figure (a cultist who erased themselves) flickers in and out of existence, begging for someone to *"say my name."* If obeyed, it collapses into smoke, leaving behind a memory-stealing dagger.                |
@@ -6450,25 +6478,7 @@ The Sanguine Lotus blooms in concentric circles of intoxication and control. At 
 
 :
 ### History
-The Sanguine Lotus began with a single, shuddering gasp—the last breath of **Lady Isolde de Veyne**, a noblewoman who drank a poisoned chalice to escape her grief. When the toxin touched her lips, she did not die—she *awoke*. The pain became pleasure, the darkness bloomed into visions, and in her final moments, she saw the truth: agony and ecstasy were the same note played in different octaves. Her grieving handmaiden, **Sabine the Hollow**, collected the froth from her lips and distilled it into the first **Vermilion Drop**—a drug that didn’t just ease suffering, but *reveled* in it. By dawn, the entire household had sipped from Isolde’s corpse, their tears turning to laughter as they carved the first ritual scars into their flesh.  
-
-Their true power awoke when they discovered the **Chalice of the Eclipse**, a vessel carved from a meteorite that had fallen through a dying god’s veins. When filled with blood and poison, it didn’t just intoxicate—it *revealed*. Their first sacrament, **The Scarlet Communion**, turned a cathedral’s congregation into writhing prophets, their veins glowing as they screamed prophecies in tongues of fire. The Lotus grew, recruiting nobles and beggars alike, their bodies adapting to ever-stronger toxins—alchemists whose sweat could paralyze, courtesans whose kisses brought visions, assassins who could weaponize a victim’s own endorphins.  
-
-A faction sought to use the Chalice not just to transcend pain, but to *erase the line between poison and pleasure*—to brew a draught that would dissolve the world’s senses into one eternal, screaming high. The ensuing conflict, the **War of the Crimson Vial**, saw rival alchemists turning cities into laboratories—entire districts succumbed to laughing plagues, while rivers ran thick with hallucinogenic foam. The war ended when Isolde (or something wearing her skin) emerged from a cocoon of crystallized toxin and *"clarified"* the formula. The survivors awoke with their veins visible beneath their skin like fine wine in glass, knowing only that they must **keep tasting**.  
-
-Their magnum opus—**The Grand Vintage**—proved their ultimate thesis: *all consciousness was just an intoxicant waiting to be refined*. A kingdom’s worth of minds dissolved into a single, swirling draught, their memories fermenting into something darker. By the final sip, only the Lotus remained, their bodies now living distilleries of suffering and bliss.  
-
-Now, they slither through ballrooms and slums alike, their **Vintners** and **Sommeliers** harvesting tears for the final vintage. Their next brew? The **Eternal Intoxication**, where the world will learn the final truth: *"Sobriety is the only sin—and the Chalice decides when you wake up."*  
-
----
-
-### **Timeline of The Sanguine Lotus**  
-- **Founding Era:** Lady Isolde dies ecstatic, birthing the **Vermilion Drop**.  
-- **Discovery Era:** The **Chalice of the Eclipse** is unearthed, revealing divine intoxication.  
-- **Expansion Era:** The Lotus turns nobles into addicts across the continent.  
-- **Schism Era:** The **War of the Crimson Vial** fractures the Lotus over revelation versus ruin.  
-- **Ascendance Era:** The **Grand Vintage** dissolves a kingdom’s sanity.  
-- **Present Era:** The Lotus prepares their **Eternal Intoxication**—a brew to end sobriety.  
+The Sanguine Lotus began with a single, shuddering gasp—the last breath of **Lady Isolde de Veyne**, a noblewoman who drank a poisoned chalice to escape her grief. When the toxin touched her lips, she did not die—she *awoke*. The pain became pleasure, the darkness bloomed into visions, and in her final moments, she saw the truth: agony and ecstasy were the same note played in different octaves. Her grieving handmaiden, **Sabine the Hollow**, collected the froth from her lips and distilled it into the first  
 
 ![Leader image](https://uploadkon.ir/uploads/d75423_25Leader-Lady-Vespera-the-Gilded-Syren.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
@@ -6492,6 +6502,25 @@ Now, they slither through ballrooms and slums alike, their **Vintners** and **So
 :
 }}
   
+**Vermilion Drop**—a drug that didn’t just ease suffering, but *reveled* in it. By dawn, the entire household had sipped from Isolde’s corpse, their tears turning to laughter as they carved the first ritual scars into their flesh.  
+
+Their true power awoke when they discovered the **Chalice of the Eclipse**, a vessel carved from a meteorite that had fallen through a dying god’s veins. When filled with blood and poison, it didn’t just intoxicate—it *revealed*. Their first sacrament, **The Scarlet Communion**, turned a cathedral’s congregation into writhing prophets, their veins glowing as they screamed prophecies in tongues of fire. The Lotus grew, recruiting nobles and beggars alike, their bodies adapting to ever-stronger toxins—alchemists whose sweat could paralyze, courtesans whose kisses brought visions, assassins who could weaponize a victim’s own endorphins.  
+
+A faction sought to use the Chalice not just to transcend pain, but to *erase the line between poison and pleasure*—to brew a draught that would dissolve the world’s senses into one eternal, screaming high. The ensuing conflict, the **War of the Crimson Vial**, saw rival alchemists turning cities into laboratories—entire districts succumbed to laughing plagues, while rivers ran thick with hallucinogenic foam. The war ended when Isolde (or something wearing her skin) emerged from a cocoon of crystallized toxin and *"clarified"* the formula. The survivors awoke with their veins visible beneath their skin like fine wine in glass, knowing only that they must **keep tasting**.  
+
+Their magnum opus—**The Grand Vintage**—proved their ultimate thesis: *all consciousness was just an intoxicant waiting to be refined*. A kingdom’s worth of minds dissolved into a single, swirling draught, their memories fermenting into something darker. By the final sip, only the Lotus remained, their bodies now living distilleries of suffering and bliss.  
+
+Now, they slither through ballrooms and slums alike, their **Vintners** and **Sommeliers** harvesting tears for the final vintage. Their next brew? The **Eternal Intoxication**, where the world will learn the final truth: *"Sobriety is the only sin—and the Chalice decides when you wake up."*  
+
+
+
+### Timeline
+- **Founding Era:** Lady Isolde dies ecstatic, birthing the **Vermilion Drop**.  
+- **Discovery Era:** The **Chalice of the Eclipse** is unearthed, revealing divine intoxication.  
+- **Expansion Era:** The Lotus turns nobles into addicts across the continent.  
+- **Schism Era:** The **War of the Crimson Vial** fractures the Lotus over revelation versus ruin.  
+- **Ascendance Era:** The **Grand Vintage** dissolves a kingdom’s sanity.  
+- **Present Era:** The Lotus prepares their **Eternal Intoxication**—a brew to end sobriety. 
 
 {{wide
 
@@ -6503,7 +6532,7 @@ Now, they slither through ballrooms and slums alike, their **Vintners** and **So
 
 \page
 
-::
+:
 ### Location and Base
 Buried beneath a forgotten desert, the Oculus Inversus is a colossal inverted observatory where the ceiling functions as the floor. The main chamber is a perfect sphere lined with petrified Seers - their bodies fused into the walls in various poses of revelation, their hollow eye sockets filled with pulsating black crystals that hum in discordant harmony. At the center floats the Refraction Pool, a liquid mirror that shows not reflections but splintered fragments of alternate realities. The pool's mercury-like surface remains perfectly still until a prophecy strikes, sending ripples that form intricate, living patterns some claim are the universe's true blueprints.
 
@@ -6516,17 +6545,18 @@ What makes the Sanguine Lotus truly terrifying is how their toxins rewrite memor
 The Sanguine Lotus is seen with a mix of awe and fear. To some, they are alluring figures of divine indulgence, offering a glimpse into hidden truths. To others, they are a dangerous cult, using their intoxicating rituals to manipulate the powerful and desperate. Whispers abound of their ultimate goal: to rewrite reality itself, with the Grand Vintage as the key to a new world.
 :
 ### Membership
-Membership is earned through the Rite of the First Sip, where initiates drink the Vintage of Unveiled Sights. Only those who survive its mind-shattering effects are allowed to join. Members are ranked by their revelations and experiences, with Euphorists leading the cult. Most members are powerful individuals seeking deeper meaning, though the Lotus also attracts the broken and lost, willing to sacrifice their sanity for enlightenment.
-:
-### Code of Conduct
-The Sanguine Lotus’s code is built around indulgence, transcendence, and truth. Members must embrace Surrender to the Nectar, allowing themselves to be transformed through ecstasy and pain. They believe in The Balance of Bliss and Ruin, where indulgence leads to destruction, but also revelation. The Prophecy of the Grand Vintage guides them, teaching that ultimate truth will be unlocked when the Shade Bride drinks the final vintage. Until then, members must continue their pursuit of knowledge through ritual and sacrifice. 
+Membership is earned through the Rite of the First Sip, where initiates drink the Vintage of Unveiled Sights. Only those who survive its mind-shattering effects are allowed to join. Members are ranked by their revelations and experiences, with Euphorists leading the cult. Most members are powerful individuals seeking deeper 
+
+
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Silken Ghoul
 {margin-left:-12px}
 :::::::::
-### Secret
-The Bloom is not a singular entity but one of many—each grown from the corpse of a previous wielder. The original, The First Bloom, lies hidden in a tomb beneath the cult's temple, and its destruction would cause all others to wither. However, the First Bloom's location shifts through time, appearing only during lunar eclipses when the veil between memories thins.
+meaning, though the Lotus also attracts the broken and lost, willing to sacrifice their sanity for enlightenment.
+:
+### Code of Conduct
+The Sanguine Lotus’s code is built around indulgence, transcendence, and truth. Members must embrace Surrender to the Nectar, allowing themselves to be transformed through ecstasy and pain. They believe in The Balance of Bliss and Ruin, where indulgence leads to destruction, but also revelation. The Prophecy of the Grand Vintage guides them, teaching that ultimate truth will be unlocked when the Shade Bride drinks the final vintage. Until then, members must continue their pursuit of knowledge through ritual and sacrifice. 
 
 
 
@@ -6552,7 +6582,7 @@ The Bloom is not a singular entity but one of many—each grown from the corpse 
 #### Description
 This grotesque living flower pulses like a heart within its gilded cage of rib bones. Its petals are made of stretched human skin, each vein tracing the lyrics of forgotten funeral dirges. The pistil is a hollowed-out skullcap that fills with blood when held, its stem a fused spinal column that twitches with phantom muscle memory. When "watered" with fresh blood, the Bloom sings in a voice both beautiful and terrible, its melodies rewriting the memories of those who hear them.  
 
----
+\column
 
 #### **Properties**  
 - **Petals of Remembrance:** As an action, pluck a petal and consume it to perfectly recall any moment from your past—or overwrite someone else's (DC 18 Wis save to resist the change). Each petal regrows at midnight, inscribing itself with new memories stolen from nearby sleepers.  
@@ -6664,6 +6694,15 @@ Now, Vespera rules from the Veiled Conservatory, a cathedral of sin hidden behin
 - **Blackout Revelation (3 Actions).** A creature sees its own death through drugged eyes (stunned 1 round, DC 20 Wis negates).  
 
 }}
+
+:::::
+
+{{note
+### Additional Notes For GMs
+The Bloom's effects should feel subtle at first—NPCs misremembering events, players finding unfamiliar scars, or waking with petals under their nails.
+
+}}
+
 \column
 ### The Silken Ghoul's Backstory
 Once a celebrated alchemist, the being now known as the Sommelier had been driven by an insatiable obsession to create the ultimate intoxicant, one that could peel back the layers of reality and reveal the hidden truths of existence. Their work culminated when they distilled the tears of a dying angel into The Vintage of Unveiled Sights, a wine capable of shattering the minds of those who drank it. The first sip revealed the universe’s cruel joke: that all pleasure is simply pain deferred, a hollow yearning that can never be fully sated. The Sommelier’s mind fractured under the weight of this truth, but in the agony of that revelation, they found something intoxicating. The second sip made them embrace the breaking, the endless spiral of pleasure and pain entwined in a single, eternal moment.
@@ -6676,11 +6715,6 @@ During a 40-day high, the Sommelier’s mind split open further, and they foresa
 
  
 ::
-{{note
-### Additional Notes For GMs
-The Bloom's effects should feel subtle at first—NPCs misremembering events, players finding unfamiliar scars, or waking with petals under their nails.
-
-}}
 
 
 ![background image](https://i.postimg.cc/wMMDRNdr/Cult-fram-5.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
@@ -6694,6 +6728,9 @@ The Bloom's effects should feel subtle at first—NPCs misremembering events, pl
 {{wide
 ::
 }}
+### Secret
+The Bloom is not a singular entity but one of many—each grown from the corpse of a previous wielder. The original, The First Bloom, lies hidden in a tomb beneath the cult's temple, and its destruction would cause all others to wither. However, the First Bloom's location shifts through time, appearing only during lunar eclipses when the veil between memories thins.
+
 ### Hook I
 The noble house of Vaelthune is known for its meticulous records—every birth, death, and marriage preserved in gilded tomes. So when the aging archivist discovers a gap in the lineage, a missing name where a fourth child should be, the family dismisses it as a scribe’s error. But the archivist persists, unearthing more inconsistencies: a nursery now used for storage, a tiny pair of gloves in the attic, a lullaby the servants hum but cannot name.
 
@@ -6726,7 +6763,8 @@ As the clock strikes midnight, the Bloom’s roots erupt from beneath the soil, 
 
 
 ### Encounter table
-|----|-----------|---------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------| 
 | 1 | **Vein-Sworn (1d4)** | Human-plant hybrids with rose-thorn claws that inject memory-altering toxins |  
 | 2 | **The Gardener** | A blind monk who "prunes" unwanted memories with shears made of bone |  
 | 3 | **Bleeding Topiary** | Animated shrub containing half-digested victims that scream when cut |  
@@ -6738,6 +6776,7 @@ As the clock strikes midnight, the Bloom’s roots erupt from beneath the soil, 
 :::::::
 ::::::::::::::::::::::::::::
 ##### High Scatologist Phlegmoth the Unclogged
+{width:400px,margin-left:-20px}
 :::::::
 {{OrgName
 ## The Shatered Star
@@ -6778,27 +6817,13 @@ At the top sits High Scatologist Phlegmoth, his body a temple of decay, his ever
 ### History
 The shatered Star began with a single, putrid fragment—the rancid gift of **The Great Defecator**, a cosmic entity that excretes realities like mortal beings pass waste. When **Dr. Horace Bindle**, a disgraced gastroenterologist, discovered the first meteorite shard in a farmer's manure pile, his tongue brushed against its surface—and his bowels voided themselves for seven days straight. In that week of agonized purging, he saw visions of the universe's true form: a vast digestive tract where stars were but indigestible morsels, and black holes the divine anus of creation. When he emerged, his right eye had become a swirling vortex of half-digested galaxies, and his voice gurgled with the wisdom of celestial flatulence. He renamed himself **Phlegmoth the Unclogged**, and the cult was born.  
 
-Their true power awoke when they consumed the **Shard of Unseeing**, a meteorite fragment that dissolved in stomach acid to reveal its terrible truth: reality was just **cosmic waste** in an endless cycle of consumption and excretion. Their first miracle, **The Purge of Saint Cesspool**, saw an entire monastery violently evacuate their bowels in unison—the resulting flood of filth forming perfect fractal patterns that predicted the next century's plagues. The cult grew, recruiting those willing to embrace the "sacred flow"—alchemists who distilled prophecy from urine, ascetics who ate only rotting meat to "align their guts with the cosmos," and the wretched **Unwashed** who licked public latrines for traces of divine digestion.  
-
-A faction sought to accelerate the Great Defecator's return by **blocking all toilets in the capital city**, believing the resulting pressure would "birth a new reality." The ensuing **War of Backed-Up Truths** saw streets flooded with prophetic sewage, while cultist suicide bombers detonated themselves as living enemas to "cleanse heretical blockages." The conflict ended when Phlegmoth (or something wearing his skin) emerged from the royal sewers and **unclogged the city with his bare hands**—the survivors awoke with their rectums sewn shut, knowing only that they must **keep digesting**.  
-
-Their ultimate revelation—**The Grand Flush**—proved their doctrine: *existence is but a single cosmic meal waiting to be expelled*. An entire kingdom's populace dissolved into liquid waste, their memories preserved as scum patterns in sacred chamber pots. By the final gurgle, only the cult remained, their bodies now perfect vessels for the Great Defecator's next movement.  
-
-Now, they lurk in sewers and noble privies alike, their **Dung Knights** and **Turd Readers** collecting specimens for the final ritual. Their next revelation? **The Eternal Bowel Movement**, where the world will learn the final truth: *"You are all just tomorrow's toilet water."*  
-
-### **Timeline of The shatered Star**  
-- **Founding Era:** Phlegmoth licks the first meteorite shard during **The Week of Purification**.  
-- **Discovery Era:** The **Shard of Unseeing** reveals reality's fecal nature.  
-- **Expansion Era:** The cult establishes **Temples of Flow** in major sewer systems.  
-- **Schism Era:** The **War of Backed-Up Truths** divides the cult over plumbing tactics.  
-- **Ascendance Era:** The **Grand Flush** liquefies a kingdom's population.  
-- **Present Era:** The cult prepares for **The Eternal Bowel Movement**—the end of solid reality.  
+Their true power awoke when they consumed the **Shard of Unseeing**, a meteorite fragment that dissolved in stomach acid to reveal its terrible truth: reality was just **cosmic waste** in an endless cycle of consumption and excretion. Their first miracle, **The Purge of Saint Cesspool**, saw an entire monastery violently evacuate their bowels in unison—the resulting flood of filth forming perfect fractal 
 
 
 
 ![Leader image](https://uploadkon.ir/uploads/901b23_25Leader-High-Scatologist-Phlegmoth-the-Unclogged.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:390px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/60af23_25Emblem-The-shatered-Star.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
@@ -6818,6 +6843,21 @@ Now, they lurk in sewers and noble privies alike, their **Dung Knights** and **T
 :
 }}
   
+patterns that predicted the next century's plagues. The cult grew, recruiting those willing to embrace the "sacred flow"—alchemists who distilled prophecy from urine, ascetics who ate only rotting meat to "align their guts with the cosmos," and the wretched **Unwashed** who licked public latrines for traces of divine digestion.  
+
+A faction sought to accelerate the Great Defecator's return by **blocking all toilets in the capital city**, believing the resulting pressure would "birth a new reality." The ensuing **War of Backed-Up Truths** saw streets flooded with prophetic sewage, while cultist suicide bombers detonated themselves as living enemas to "cleanse heretical blockages." The conflict ended when Phlegmoth (or something wearing his skin) emerged from the royal sewers and **unclogged the city with his bare hands**—the survivors awoke with their rectums sewn shut, knowing only that they must **keep digesting**.  
+
+Their ultimate revelation—**The Grand Flush**—proved their doctrine: *existence is but a single cosmic meal waiting to be expelled*. An entire kingdom's populace dissolved into liquid waste, their memories preserved as scum patterns in sacred chamber pots. By the final gurgle, only the cult remained, their bodies now perfect vessels for the Great Defecator's next movement.  
+
+Now, they lurk in sewers and noble privies alike, their **Dung Knights** and **Turd Readers** collecting specimens for the final ritual. Their next revelation? **The Eternal Bowel Movement**, where the world will learn the final truth: *"You are all just tomorrow's toilet water."*  
+
+### Timeline  
+- **Founding Era:** Phlegmoth licks the first meteorite shard during **The Week of Purification**.  
+- **Discovery Era:** The **Shard of Unseeing** reveals reality's fecal nature.  
+- **Expansion Era:** The cult establishes **Temples of Flow** in major sewer systems.  
+- **Schism Era:** The **War of Backed-Up Truths** divides the cult over plumbing tactics.  
+- **Ascendance Era:** The **Grand Flush** liquefies a kingdom's population.  
+- **Present Era:** The cult prepares for **The Eternal Bowel Movement**—the end of solid reality.  
 
 {{wide
 
@@ -6882,7 +6922,7 @@ This relic appears as a jagged, semi-luminescent chunk of meteoric stone sealed 
 #### **Properties**
 
 * **Gastrognosis:** Once per day, you may **consume a morsel of the relic** (DC 18 Constitution save). On a success, you enter a transcendent fugue for 10 minutes. During this time, you gain **truesight 60 ft.**, resistance to psychic damage, and the ability to speak an alien language of digestion-based truths. On a failure, you take 4d10 psychic damage and are incapacitated for 1 minute with existential nausea.
-
+\column
 * **Divine Peristalsis:** When you are struck by a critical hit, you may use your reaction to unleash a **cosmic flatulence**, forcing all creatures within 15 feet to make a DC 17 Constitution save or be **blinded, deafened, and unable to speak** for 1 round as their senses are flooded with alien excremental data. Usable 3/day.
 
 * **Excretic Revelation:** Once per long rest, you may interpret a **Divine Stool**, created after eating a shard of the relic. The DM reveals a **true but utterly incomprehensible prophecy**. You gain inspiration, but also one **random long-term madness** effect from the *DMG*, lasting 1d10 days.
@@ -6900,7 +6940,7 @@ This relic appears as a jagged, semi-luminescent chunk of meteoric stone sealed 
 
 
 
-![Item image](https://uploadkon.ir/uploads/485623_25Item-The-Shatered-Star-The-Coprolith-Reliquary.jpg) {position:absolute,bottom:-10%,left:0%,width:100%}
+![Item image](https://uploadkon.ir/uploads/485623_25Item-The-Shatered-Star-The-Coprolith-Reliquary.jpg) {position:absolute,bottom:-18%,left:0%,width:100%}
 
 ![background image](https://i.postimg.cc/ZKt71NWJ/Cult-fram-6-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -7037,37 +7077,37 @@ The shatered Star has infiltrated the capital’s Grand Cistern, a cathedral-lik
 
 The cistern is a vertical dungeon of inverted pipes and gravity-defying waterfalls of sludge. The cult has modified the architecture into a living digestive system: gates are sphincters that must be "stimulated" to open, and the central chamber is a colossal stomach acid lake where the High Scatologist Phlegmoth floats on a raft made of fused chamber pots. The party must navigate this biomechanical nightmare while avoiding:
 
-Acidic Geysers (DC 15 Dex save or take 4d6 acid damage)
+- Acidic Geysers (DC 15 Dex save or take 4d6 acid damage)
 
-Peristaltic Crushers (moving walls that deal 6d10 bludgeoning)
+- Peristaltic Crushers (moving walls that deal 6d10 bludgeoning)
 
-The Great U-Bend, a trap that teleports victims into the city’s drinking water supply
+- The Great U-Bend, a trap that teleports victims into the city’s drinking water supply
 
 At the ritual’s climax, Phlegmoth begins the Grand Flush, causing the cistern’s contents to spiral into a portal of swirling waste. The party must decide:
 
-Collapse the cistern, flooding the city with raw sewage but stopping the ritual
+- Collapse the cistern, flooding the city with raw sewage but stopping the ritual
 
-Redirect the flow into the noble district, framing the aristocracy for the disaster
+- Redirect the flow into the noble district, framing the aristocracy for the disaster
 
-Jump into the portal, entering the Great Defecator’s realm (a dimension of sentient constipation)
+- Jump into the portal, entering the Great Defecator’s realm (a dimension of sentient constipation)
 
 Complications include:
 
-The Plumber’s Guild has its own agenda (they want to harvest the meteorite shards for profit)
+- The Plumber’s Guild has its own agenda (they want to harvest the meteorite shards for profit)
 
-One party member starts hearing the Great Defecator’s voice whenever they eat cheese
+- One party member starts hearing the Great Defecator’s voice whenever they eat cheese
 
-The portal doesn’t close—it just keeps getting bigger, threatening to swallow the city whole
+- The portal doesn’t close—it just keeps getting bigger, threatening to swallow the city whole
 
 ### Encounter table
-| Roll | Encounter |  
-|------|-----------|  
-| 1 | **The Constipated Acolyte** - Bloated cultist begging for laxatives |  
-| 2 | **Dung Knights (2d4)** - Warriors armored in compressed waste |  
-| 3 | **Meteorite Sniffers** - Addicts huffing shard-dust (random mutations) |  
-| 4 | **The Backed-Up Altar** - A clogged holy toilet that screams |  
-| 5 | **The Great Unclogging Ritual** - Cultists using a 50ft plunger |  
-| 6 | **Phlegmoth's Sermon** - His words make listeners vomit prophecies |  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|   
+| 1 | **The Constipated Acolyte** | Bloated cultist begging for laxatives |  
+| 2 | **Dung Knights (2d4)** | Warriors armored in compressed waste |  
+| 3 | **Meteorite Sniffers** | Addicts huffing shard-dust (random mutations) |  
+| 4 | **The Backed-Up Altar** | A clogged holy toilet that screams |  
+| 5 | **The Great Unclogging Ritual** | Cultists using a 50ft plunger |  
+| 6 | **Phlegmoth's Sermon** | His words make listeners vomit prophecies |  
 \page
 
 :::::::
@@ -7113,29 +7153,14 @@ The Silent Tide operates like a sinking ship's chain of command. At the top floa
 ### History
 The Silent Tide began with a single, desperate prayer—the final gasp of **Captain Elias Vorsh** as his whaling ship, *The Maw's Mercy*, was dragged beneath the waves by something older than the gods. Instead of drowning, he found himself breathing the black depths, hearing a voice like the groan of continental plates. It promised his crew would live again if he fed the sea's hunger. When he washed ashore days later, his lungs pumped seawater, and his first act was to drown his own wife as an offering. She rose the next tide, her voice now the chorus of the deep.  
 
-Their true power awoke when they recovered the **Drowned Gospel** from the belly of a beached leviathan—its pages were the creature's own organs, the text visible only when submerged in sacrificial blood. When read aloud, it didn't just summon storms—it *rewrote* them, turning rain into liquid oblivion that dissolved memories. Their first miracle, the **Tide of Blackened Hands**, saw an entire coastal town walk willingly into the surf, their bodies returning days later as hollow vessels that sang with the ocean's voice. The Tide grew, recruiting from shipwrecks and coastal slums, their initiates undergoing the **Rite of the Vessel**—a drowning baptism that left some dead, some changed, and some... something else.  
-
-A faction sought to use the Gospel not just to appease the deep, but to *become* it—to dissolve all land into the hungry waves. The ensuing **Salt Schism** saw brother drown brother in battles fought entirely underwater, combatants wielding weapons of frozen brine that melted through flesh. The war ended when Dagon (or what wore his face) emerged from a waterspout with gills pulsing like a second mouth and declared *"The Maw is pleased."* The survivors surfaced with salt crystallizing in their veins, knowing only that they must **keep drowning**.  
-
-Their magnum opus—**The Tide of Unmaking**—proved their ultimate truth: *all life came from the deep, and to the deep it must return*. An entire archipelago vanished beneath the waves, not swallowed, but *welcomed*, its people dancing as they sank. By the last ripple, only the Tide remained, their lungs now filling with something darker than water.  
-
-Now, they infiltrate port cities and river towns, their **Tideseers** and **Deepwalkers** preparing for the final baptism. Their next offering? The **Sinking of the Sun**, when even fire will learn to drown.  
-
-### **Timeline of The Silent Tide**  
-- **Founding Era:** Elias Vorsh drowns his wife in the **First Offering**.  
-- **Discovery Era:** The **Drowned Gospel** is recovered from a dying leviathan.  
-- **Expansion Era:** The Tide converts coastal towns through "miraculous" drownings.  
-- **Schism Era:** The **Salt Schism** divides the cult over appeasement vs. annihilation.  
-- **Ascendance Era:** The **Tide of Unmaking** erases an archipelago from maps.  
-- **Present Era:** The Tide prepares the **Sinking of the Sun** ritual.  
-
+Their true power awoke when they recovered the **Drowned Gospel** from the belly of a beached leviathan—its pages were the creature's own organs, the text visible only when submerged in sacrificial blood. When read aloud, it didn't just summon storms—it *rewrote* them, turning rain into liquid oblivion that dissolved memories. Their first miracle, the **Tide of Blackened Hands**, saw an entire coastal town walk willingly into the surf, their bodies returning days later as hollow vessels that sang with the ocean's voice. The Tide grew, recruiting from shipwrecks and coastal slums, their initiates undergoing 
 ![Leader image](https://uploadkon.ir/uploads/b78523_25Leader-High-Tidecaller-Dagon-Vorsh.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:320px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/c90223_25Emblem-The-Silent-Tide.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
-![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg})){{pageNumber,auto}}
+![emblem -frame](https://s8.uupload.ir/files/emblem_cover_y8za.png) {position:absolute,top:-.2%,right:14%,height:%,width:160px,mix-blend-mode:,rotate:deg}{{pageNumber,auto}}
 
 \page
 
@@ -7151,6 +7176,24 @@ Now, they infiltrate port cities and river towns, their **Tideseers** and **Deep
 :
 }}
   
+the **Rite of the Vessel**—a drowning baptism that left some dead, some changed, and some... something else.  
+
+A faction sought to use the Gospel not just to appease the deep, but to *become* it—to dissolve all land into the hungry waves. The ensuing **Salt Schism** saw brother drown brother in battles fought entirely underwater, combatants wielding weapons of frozen brine that melted through flesh. The war ended when Dagon (or what wore his face) emerged from a waterspout with gills pulsing like a second mouth and declared *"The Maw is pleased."* The survivors surfaced with salt crystallizing in their veins, knowing only that they must **keep drowning**.  
+
+Their magnum opus—**The Tide of Unmaking**—proved their ultimate truth: *all life came from the deep, and to the deep it must return*. An entire archipelago vanished beneath the waves, not swallowed, but *welcomed*, its people dancing as they sank. By the last ripple, only the Tide remained, their lungs now filling with something darker than water.  
+
+Now, they infiltrate port cities and river towns, their **Tideseers** and **Deepwalkers** preparing for the final baptism. Their next offering? The **Sinking of the Sun**, when even fire will learn to drown.  
+
+### Timeline
+- **Founding Era:** Elias Vorsh drowns his wife in the **First Offering**.  
+- **Discovery Era:** The **Drowned Gospel** is recovered from a dying leviathan.  
+- **Expansion Era:** The Tide converts coastal towns through "miraculous" drownings.  
+- **Schism Era:** The **Salt Schism** divides the cult over appeasement vs. annihilation.  
+- **Ascendance Era:** The **Tide of Unmaking** erases an archipelago from maps.  
+- **Present Era:** The Tide prepares the **Sinking of the Sun** ritual.  
+
+### Location and Base
+A colossal, algae-choked basilica sunk beneath crushing depths, its spires piercing upward like the ribs of a drowned giant. The stained-glass windows depict not saints, but the faces of sacrifices frozen mid-scream, their expressions shifting when observed from different angles. The pews are carved from black coral that whispers the last prayers of the drowned, and the altar is a gaping maw of obsidian teeth that drips with perpetual brine. At the cathedral's heart pulses the Throne of the Hungry Tide, a living seat of braided kelp and human cartilage where High Tidecaller Dagon Vorsh holds court. The water here is thick with suspended corpses - some ancient, some freshly offered - all floating in perfect formation like a macabre choir. Time flows backward in the transepts, where visitors often see their own bloated corpses drifting past, while the confessional booths contain not priests, but breathing voids that swallow secrets whole.
 
 {{wide
 
@@ -7162,9 +7205,7 @@ Now, they infiltrate port cities and river towns, their **Tideseers** and **Deep
 
 \page
 
-::
-### Location and Base
-A colossal, algae-choked basilica sunk beneath crushing depths, its spires piercing upward like the ribs of a drowned giant. The stained-glass windows depict not saints, but the faces of sacrifices frozen mid-scream, their expressions shifting when observed from different angles. The pews are carved from black coral that whispers the last prayers of the drowned, and the altar is a gaping maw of obsidian teeth that drips with perpetual brine. At the cathedral's heart pulses the Throne of the Hungry Tide, a living seat of braided kelp and human cartilage where High Tidecaller Dagon Vorsh holds court. The water here is thick with suspended corpses - some ancient, some freshly offered - all floating in perfect formation like a macabre choir. Time flows backward in the transepts, where visitors often see their own bloated corpses drifting past, while the confessional booths contain not priests, but breathing voids that swallow secrets whole.
+:
 :
 ### Pecularity
 All cult members bear the Mark of the Hungry Tide - a swirling brand that pulses blue when submerged. The more devout one becomes, the more their body changes: skin develops a translucent sheen, hair bleaches white as sea foam, and eventually lungs adapt to breathe water... at the cost of suffocating in air.
@@ -7189,7 +7230,7 @@ The cult doesn't merely worship Thalassrix—they are farming it. Every sacrific
 
 ![Adjudant Iamge](https://uploadkon.ir/uploads/119f23_25Sister-Murkwhisper.jpg) {position:absolute,top:00px,right:00px,width:508px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:17%,height:%,width:270px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:27%,height:%,width:270px,mix-blend-mode:,rotate:deg}
 
 ![background image](https://i.postimg.cc/Znh8DrVg/Cult-fram-4-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -7210,7 +7251,10 @@ This living tome is bound in the flayed skin of a drowned saint, its "pages" mad
 
 #### **Properties**  
 - **Tide's Revelation:** As an action while submerged, you can recite a verse. All creatures within 30 feet must make a DC 17 Constitution save or suffer:  
-  - *Brineblind:* Eyes fill with saltwater (blinded, 2d6 acid damage per round until rinsed).  
+  - *Brineblind:* Eyes fill with saltwater (blinded, 2d6 acid damage per round until rinsed).
+  
+\column
+  
   - *Kelpwalker:* Legs fuse into a flipper-like mass (speed halved, swim speed 40 ft. for 1 hour).  
   - *Maw's Call:* Must move toward deepest nearby water each turn (Wisdom save ends).  
 
@@ -7370,9 +7414,10 @@ The party is hired to protect Harlan, but the deeper they delve, the stranger hi
 
 The final confrontation occurs during a king tide, when Harlan's body begins unraveling into kelp-like strands. The cult doesn't want to kill him—they need him to finish the verse that will summon the gestation chamber to the surface. Stopping them means deciding whether to let Harlan become the Tide's newest prophet... or mercy-killing him before the transformation completes.
 
+\column
 ### Encounter table
-| Roll | Title                  | Description                                                                                         |  
-|:----:|------------------------|-----------------------------------------------------------------------------------------------------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|  
 | 1    | **The Drowned Sermon**  | 1d4 **Brine Speakers** stand waist-deep in tidal pools, their slit throats gurgling hymns. Those who listen for more than a minute must make a DC 15 CON save or begin *breathing water* for 1 hour (suffocate in air). |  
 | 2    | **The Offering**        | A weighted corpse floats upright in a shallow pool, its mouth moving silently. Removing the anchor stones causes 2d6 **Deepwalkers** to emerge from nearby water sources. |  
 | 3    | **Tide Memory**         | Seawater forms a perfect, moving reflection of a past drowning—the victim is someone the party knows. Touching it forces a DC 14 WIS save or the viewer *relives the drowning* (stunned 1 round). |  
@@ -7423,29 +7468,13 @@ The Thorned Tongue is structured like a living library, each member a keeper of 
 
 :
 ### History
-The Thorned Tongue began not with a prophecy, but with a silence. In a time long forgotten—*deliberately* forgotten—a word was spoken that should never have been uttered. The scholar who discovered it vanished from all records; the books he touched burned of their own accord; and the very library where he once worked collapsed inward, as if consumed by the weight of what had been remembered. That word, or what little remains of it, is now the sacred obsession of the Thorned Tongue. They believe that scattered throughout history lie the tattered remnants of a god who was not slain, but erased—*The Forgotten One*, whose power was so great that reality itself recoiled and buried all memory of them.
-
-The cult’s mission is clear: to recover forbidden spells, lost curses, and arcane syllables shunned by both divine and mortal law. They gather these fragments like bone shards, binding them into rituals too incomplete to understand, yet too powerful to ignore. Their relics are alive—**Thorned Lexicons**, stitched from skin and shadow, blooming with fresh pages when fed secrets no one else dares speak. Each member is a heretic librarian, a cursed linguist, a reaper of memory. They do not worship the Forgotten One in the traditional sense—they *build* it, piece by piece, through language and legacy. Every erased glyph, every broken oath, every cursed lullaby brings their god one breath closer to rebirth. Wherever truth has been scorched from history, the Thorned Tongue follows, whispering what should not be remembered into the mouths of those who should not have listened.
-
----
-
-* **Founding Era:** *The Silence of Names* — A scholar speaks a word that vanishes from all memory. The first **Thorned Lexicon** awakens, and those who hear its whisper form the cult known as the Thorned Tongue.
-
-* **Gathering Era:** *The Harvest of Ashen Ink* — Cultists begin collecting erased spells, cursed incantations, and lost languages. Forbidden texts are fed to living tomes, and the first spell-chains are woven from burned histories.
-
-* **Expansion Era:** *The Bleeding Verses* — Entire libraries are immolated to reveal what lies between the margins. Thorned Lexicons begin to grow independently, hungering for forgotten knowledge and birthing sentient scripture.
-
-* **Schism Era:** *The Fracturing of Tongues* — Disputes arise over how the Forgotten One should be rebuilt—harmonised through perfect ritual or resurrected through chaotic contradiction. Lexicons whisper conflicting instructions, leading to internal purges and ritual sabotage.
-
-* **Ascendance Era:** *The Thirteenth Lexicon* — A legendary tome is assembled from erased prophecies, stolen languages, and forbidden names. It is believed to contain the opening phrase of the Forgotten One’s true identity. The cult vanishes from public knowledge, erasing its own trail.
-
-* **Present Era:** *The Ritual of Remembered Silence* — The Thorned Tongue prepares to overwrite the world’s memory with the Forgotten One’s name. As songs unwrite themselves and languages collapse into silence, the god begins to stir—no longer remembered, but inevitable.
+The Thorned Tongue began not with a prophecy, but with a silence. In a time long forgotten—*deliberately* forgotten—a word was spoken that should never have been uttered. The scholar who discovered it vanished from all records; the books he touched burned of their own accord; and the very library where he once worked collapsed inward, as if consumed by the weight of what had been remembered. That word, or what little remains of it, is now the sacred 
 
 
 
 ![Leader image](https://uploadkon.ir/uploads/747923_25Leader-Archivist-Veylis-the-Unwritten.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:320px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/457523_25Emblem-The-Thorned-Tongue.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
@@ -7465,6 +7494,23 @@ The cult’s mission is clear: to recover forbidden spells, lost curses, and arc
 :
 }}
   
+obsession of the Thorned Tongue. They believe that scattered throughout history lie the tattered remnants of a god who was not slain, but erased—*The Forgotten One*, whose power was so great that reality itself recoiled and buried all memory of them.
+
+The cult’s mission is clear: to recover forbidden spells, lost curses, and arcane syllables shunned by both divine and mortal law. They gather these fragments like bone shards, binding them into rituals too incomplete to understand, yet too powerful to ignore. Their relics are alive—**Thorned Lexicons**, stitched from skin and shadow, blooming with fresh pages when fed secrets no one else dares speak. Each member is a heretic librarian, a cursed linguist, a reaper of memory. They do not worship the Forgotten One in the traditional sense—they *build* it, piece by piece, through language and legacy. Every erased glyph, every broken oath, every cursed lullaby brings their god one breath closer to rebirth. Wherever truth has been scorched from history, the Thorned Tongue follows, whispering what should not be remembered into the mouths of those who should not have listened.
+
+### Timeline
+
+* **Founding Era:** *The Silence of Names* — A scholar speaks a word that vanishes from all memory. The first **Thorned Lexicon** awakens, and those who hear its whisper form the cult known as the Thorned Tongue.
+
+* **Gathering Era:** *The Harvest of Ashen Ink* — Cultists begin collecting erased spells, cursed incantations, and lost languages. Forbidden texts are fed to living tomes, and the first spell-chains are woven from burned histories.
+
+* **Expansion Era:** *The Bleeding Verses* — Entire libraries are immolated to reveal what lies between the margins. Thorned Lexicons begin to grow independently, hungering for forgotten knowledge and birthing sentient scripture.
+
+* **Schism Era:** *The Fracturing of Tongues* — Disputes arise over how the Forgotten One should be rebuilt—harmonised through perfect ritual or resurrected through chaotic contradiction. Lexicons whisper conflicting instructions, leading to internal purges and ritual sabotage.
+
+* **Ascendance Era:** *The Thirteenth Lexicon* — A legendary tome is assembled from erased prophecies, stolen languages, and forbidden names. It is believed to contain the opening phrase of the Forgotten One’s true identity. The cult vanishes from public knowledge, erasing its own trail.
+
+* **Present Era:** *The Ritual of Remembered Silence* — The Thorned Tongue prepares to overwrite the world’s memory with the Forgotten One’s name. As songs unwrite themselves and languages collapse into silence, the god begins to stir—no longer remembered, but inevitable.
 
 {{wide
 
@@ -7491,13 +7537,14 @@ To outsiders, the Thorned Tongue is a myth—a ghost story scholars tell to expl
 ### Membership
 The cult recruits from librarians, poets, and criminals, targeting those who crave forbidden knowledge or seek to erase their past. Initiates undergo the Thorned Oath, swallowing a seed that grows into their new tongue. Full members are branded with a quill-and-thorn sigil, their veins darkening with ink as they ascend ranks. The inner circle, the Erasure Cabal, are scribes who have willingly had their eyes sewn shut to "better see the unwritten."
 :
-### Code of Conduct
-The Thorned Tongue operates under the Doctrine of the Unspoken Word: silence is sacrilege, but truth is treason. Members must carve every revelation into their flesh, for "only pain proves purity." Lies are punished by having the offender’s tongue grafted onto another cultist, so the deceiver must hear their own voice spread heresy. The highest law is "Write or Be Written"—those who refuse to inscribe the cult’s dogma become parchment for it instead. 
+
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### The Hollow Script
 {margin-left:-12px}
 :::::::::
+### Code of Conduct
+The Thorned Tongue operates under the Doctrine of the Unspoken Word: silence is sacrilege, but truth is treason. Members must carve every revelation into their flesh, for "only pain proves purity." Lies are punished by having the offender’s tongue grafted onto another cultist, so the deceiver must hear their own voice spread heresy. The highest law is "Write or Be Written"—those who refuse to inscribe the cult’s dogma become parchment for it instead. 
 ### Secret
 The Thorned Tongue believes reality is a palimpsest—a draft scrawled over older, truer worlds. Their deepest secret? The original creator-god still exists, imprisoned in the erased spaces between letters. The Lexicon’s ultimate purpose is to unwrite the current cosmos so the "First Author" can begin anew.
 
@@ -7524,6 +7571,7 @@ The Thorned Tongue believes reality is a palimpsest—a draft scrawled over olde
 #### Description
 This tome appears as a weathered folio bound in whispering human skin, its surface constantly shifting with barely legible glyphs and phantom ink. When held, the book pulses faintly, as though breathing. It is impossible to determine its exact thickness—it always seems to hold one more page than expected. The inside pages are stitched together with black sinew, some scrawled in languages that have no known speakers, others completely blank until blood touches them. The grimoire hums softly when forbidden knowledge is nearby.
 
+\column
 #### **Properties**
 
 * **Forgotten Verse:** The wielder can cast *Modify Memory* once per long rest without material components. If the target forgets a spell, poem, or name, that memory is etched onto a new page in the grimoire.
@@ -7677,7 +7725,8 @@ Tracking the ink leads to the Scriptorium of Screams, where the party finds the 
 Freeing the heir triggers a cascade of paradoxes—the party begins encountering people who remember different versions of history, and the noble family's lineage starts unraveling. The cult offers a terrible bargain: the heir can be restored, but someone else must be unwritten in their place. The deeper horror comes when the party finds notes suggesting this isn't the first time this has happened...and that some of their own memories may already be altered replacements.
 
 ### Encounter table
-|----|-----------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|   
 | 1  | **Ink Wraiths (2d4)** | Former scribes whose names were erased; their bodies are living ink. |  
 | 2  | **The Hollow Script** | The oracle drifts through a battlefield, rewriting dying screams into prophecies. |  
 | 3  | **Quill-Beast** | A mass of fused scribes with barbed quill fingers (DC 15 Dex save or be tattooed with a curse). |  
@@ -7730,21 +7779,7 @@ At the top stands Mycolord Vhossuth, the living avatar of the Vein-Lord, whose f
 ### History
 The Verdant Rot began with a single, pulsating spore—the last breath of **Archdruid Ultherion the Green**, who sought to heal a dying world by merging with the Great Mycelium. When his circle refused his radical symbiosis, Ultherion performed the **Rite of Flesh and Fungus**, grafting his own organs to a primordial fungal colony. His disciples watched in horror as his skin split, revealing pulsating mycelial veins—then in awe as his withered arm regrew, stronger and greener than before. By dawn, half the circle had voluntarily submitted to the grafting. The other half became the first **Flesh-Orchard**, their screaming faces preserved as fruiting bodies on the Archdruid's new fungal form.  
 
-Their true power awakened when they uncovered the **Vein-Lord**, a fungal entity buried beneath the Gloaming Mire. This ancient intelligence showed them how to weave human nervous systems into the mycelial network, turning flesh into living soil for their spores. Their first atrocity, **The Blooming**, transformed an entire village into a singing fungal garden—their victims' final screams preserved as harmonic vibrations in the ever-growing network. The cult expanded, recruiting those willing to trade individuality for hive-mind unity, their bodies slowly becoming more fungus than human—elders with mushroom caps for heads, warriors with cordyceps-infected muscles, oracles whose eyes dripped prophetic spores.  
-
-A faction sought to accelerate the transformation through forced infections, drowning dissenters in spore-vats to create **The Perfect Hosts**. The resulting **War of Roots** saw fungal plagues weaponized—forests walked as titanic myco-golems, while spore storms turned castles into bubbling fungal colonies. The conflict ended when Ultherion (or what remained of him) emerged from the central fruiting body and **"pruned"** the dissenters. The survivors awoke with their mouths sewn shut by living mycelium, knowing only that they must **spread the bloom**.  
-
-Their ultimate revelation—**The Grand Symbiosis**—proved their doctrine: *all life must become one*. An entire kingdom's population dissolved into the network, their memories preserved as glowing spore patterns in the fungal towers. By the final assimilation, only the Verdant Rot remained, their bodies now perfect vessels for the Vein-Lord's will.  
-
-Now, they infiltrate hospitals and herbariums alike, their **Sporebinders** and **Rootborn** preparing the world for the final transformation. Their next growth phase? **The Eternal Mycelium**, where all creatures will learn the final truth: *"You were never individuals—just lonely spores waiting to reunite."*  
-
- 
-- **Founding Era:** Ultherion performs the Rite of Flesh and Fungus upon himself.  
-- **Discovery Era:** The **Vein-Lord** is awakened beneath the Gloaming Mire.  
-- **Expansion Era:** The cult's spores turn villages into singing fungal gardens.  
-- **Schism Era:** The **War of Roots** divides the cult over gradual vs. forced transformation.  
-- **Ascendance Era:** **The Grand Symbiosis** assimilates an entire kingdom.  
-- **Present Era:** The cult prepares the world for **The Eternal Mycelium**.  
+Their true power awakened when they uncovered the **Vein-Lord**, a fungal entity buried beneath the Gloaming Mire. This ancient intelligence showed them how to weave human nervous systems into the mycelial network, turning flesh into living soil for their spores. Their first atrocity, **The Blooming**, transformed an entire village into a singing  
 
 ![Leader image](https://uploadkon.ir/uploads/107423_25Leader-Mycolord-Vhossuth.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
@@ -7768,6 +7803,21 @@ Now, they infiltrate hospitals and herbariums alike, their **Sporebinders** and 
 :
 }}
   
+fungal garden—their victims' final screams preserved as harmonic vibrations in the ever-growing network. The cult expanded, recruiting those willing to trade individuality for hive-mind unity, their bodies slowly becoming more fungus than human—elders with mushroom caps for heads, warriors with cordyceps-infected muscles, oracles whose eyes dripped prophetic spores.  
+
+A faction sought to accelerate the transformation through forced infections, drowning dissenters in spore-vats to create **The Perfect Hosts**. The resulting **War of Roots** saw fungal plagues weaponized—forests walked as titanic myco-golems, while spore storms turned castles into bubbling fungal colonies. The conflict ended when Ultherion (or what remained of him) emerged from the central fruiting body and **"pruned"** the dissenters. The survivors awoke with their mouths sewn shut by living mycelium, knowing only that they must **spread the bloom**.  
+
+Their ultimate revelation—**The Grand Symbiosis**—proved their doctrine: *all life must become one*. An entire kingdom's population dissolved into the network, their memories preserved as glowing spore patterns in the fungal towers. By the final assimilation, only the Verdant Rot remained, their bodies now perfect vessels for the Vein-Lord's will.  
+
+Now, they infiltrate hospitals and herbariums alike, their **Sporebinders** and **Rootborn** preparing the world for the final transformation. Their next growth phase? **The Eternal Mycelium**, where all creatures will learn the final truth: *"You were never individuals—just lonely spores waiting to reunite."*  
+
+### Timeine 
+- **Founding Era:** Ultherion performs the Rite of Flesh and Fungus upon himself.  
+- **Discovery Era:** The **Vein-Lord** is awakened beneath the Gloaming Mire.  
+- **Expansion Era:** The cult's spores turn villages into singing fungal gardens.  
+- **Schism Era:** The **War of Roots** divides the cult over gradual vs. forced transformation.  
+- **Ascendance Era:** **The Grand Symbiosis** assimilates an entire kingdom.  
+- **Present Era:** The cult prepares the world for **The Eternal Mycelium**. 
 
 {{wide
 
@@ -7808,7 +7858,7 @@ The Vein-Lord is not a god—it’s a prisoner. The fungal entity was bound bene
 
 ![Adjudant Iamge](https://uploadkon.ir/uploads/da7723_25Mother-Hyphae.jpg) {position:absolute,top:00px,right:00px,width:508px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:17%,height:%,width:270px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:39%,right:27%,height:%,width:270px,mix-blend-mode:,rotate:deg}
 
 ![background image](https://i.postimg.cc/Znh8DrVg/Cult-fram-4-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -7820,6 +7870,7 @@ The Vein-Lord is not a god—it’s a prisoner. The fungal entity was bound bene
 
 *Legendary, Requires Attunement (Cursed)*  
 }}
+::
 {{wide,columns:2,descriptive
 
 
@@ -7845,7 +7896,7 @@ This pulsating fungal mass resembles a grotesque heart wrapped in bioluminescent
 
 
 
-![Item image](https://uploadkon.ir/uploads/c7b023_25Item-The-Verdant-Rot-The-Vein-Lord-s-Heart.jpg) {position:absolute,bottom:-10%,left:0%,width:100%}
+![Item image](https://uploadkon.ir/uploads/c7b023_25Item-The-Verdant-Rot-The-Vein-Lord-s-Heart.jpg) {position:absolute,bottom:-10%,left:0%,width:108%}
 
 ![background image](https://i.postimg.cc/ZKt71NWJ/Cult-fram-6-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}{{pageNumber,auto}}
 
@@ -8004,8 +8055,8 @@ The Vein-Lord’s Larder holds half-digested prisoners in honeycomb pods, their 
 Vhossuth’s lab is a surgical nightmare, with the serum suspended above a living altar made of grafted cultists.
 
 ### Encounter table
-| Roll | Encounter |  
-|------|-----------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|   
 | 1 | **Flesh-Orchard Tenders** | 1d4+1 cultists harvesting "fruit" from screaming victims grafted to trees. |  
 | 2 | **The Walking Infected** | 2d6 spore-addled townsfolk with fungal growths. They beg for help but attack if touched. |  
 | 3 | **Mycelial Ambush** | The ground erupts with cordyceps-controlled wildlife (e.g., a deer with mushrooms bursting from its eyes). |  
@@ -8058,27 +8109,12 @@ The Paid-in-Full are former wishers who have settled their debts by becoming par
 
 :
 ### History
-The Wailing Well began with a single, desperate wish—the final gasp of **Mother Hesper the Unmourned**, a midwife who buried twelve stillborn children before kneeling at the black pool's edge. When she begged for *"just one living child,"* the Well answered—by transforming her next delivery into a squalling, immortal thing that aged backward, its cries peeling years from all who heard it. Hesper drowned the horror in the Well's depths, but as she did, the water whispered back: *"All life demands payment in kind."* By dawn, every mother in her village had birthed similar monstrosities, and the Well had grown fat with their screams.  
-
-Its true power awoke when the first **Thimble Priests** discovered they could distill wishes into liquid—pouring one man's plea for wealth into another's ears, only to watch gold coins burst from his eyes. Their first miracle, **The Cask of Borrowed Sorrows**, let an entire town trade their grief to a neighboring city—the donors forgot their dead, while the recipients drowned in phantom funerals. The cult grew, collecting desperate souls willing to bargain pieces of themselves—a widow's laughter sold to cure a lord's gout, a poet's voice traded for a soldier's steady hands.  
-
-A faction sought to use the Well not just to grant wishes, but to *invert compassion itself*—to prove that every act of mercy was secretly cruelty in disguise. The ensuing **War of Balanced Scales** saw "healers" who cured plagues by redirecting them to orphans, and "benefactors" who fed the hungry by starving their own families. The conflict ended when Mother Hesper (or something wearing her skin) emerged from the Well and **drank half the world's prayers dry**—the survivors awoke with their palms pierced by invisible hooks, knowing only that they must **keep giving**.  
-
-Their magnum opus—**The Grand Irony**—proved their ultimate thesis: *no good deed goes unpunished*. A kingdom's worth of charity curdled into self-destruction—hospitals that spread disease, alms that bred addiction, love letters that inspired murders. By the final accounting, only the cult remained, their hollow chests ringing with the echoes of every wish they'd twisted.  
-
-Now, they haunt hospitals and wedding chapels alike, their **Thimble Priests** and **Debt-Scribes** measuring out mercy in draughts of venom. Their next revelation? **The Final Quenching**, where the world will learn the last truth: *"To wish is to owe—and the Well always collects."*  
- 
-- **Founding Era:** Mother Hesper makes her fatal wish during the **Birth of the Unchild**.  
-- **Discovery Era:** The **Thimble Rite** is perfected, allowing pain to be traded like currency.  
-- **Expansion Era:** The cult establishes **Hospices of Equal Measure** across the realm.  
-- **Schism Era:** The **War of Balanced Scales** divides the cult over active vs. passive corruption.  
-- **Ascendance Era:** The **Grand Irony** turns a kingdom's compassion into self-destruction.  
-- **Present Era:** The cult prepares for **The Final Quenching**—the Well's apotheosis. 
+The Wailing Well began with a single, desperate wish—the final gasp of **Mother Hesper the Unmourned**, a midwife who buried twelve stillborn children before kneeling at the black pool's edge. When she begged for *"just one living child,"* the Well answered—by transforming her next delivery into a squalling, immortal thing that aged backward, its cries peeling years from all who heard it. Hesper drowned the horror in the Well's depths, but as she did, the water whispered back: *"All life demands payment in kind."* By dawn, every mother in her village had birthed  
 
 
 ![Leader image](https://uploadkon.ir/uploads/87e723_25Leader-Mother-Marrow-the-Hollow.jpg) {position:absolute,top:00px,left:-40px,width:458px,height:}
 
-![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:%,width:250px,mix-blend-mode:,rotate:deg}
+![name box](https://i.postimg.cc/PJM3MYLQ/name-banner-7g.png) {position:absolute,bottom:48%,left:0%,height:7%,width:290px,mix-blend-mode:,rotate:deg}
 ![emblem](https://uploadkon.ir/uploads/36eb23_25Emblem-The-Wailing-Well.jpg) {position:absolute,top:0%,right:15%,height:%,width:155px,mix-blend-mode:,rotate:deg}
 ![background image](https://i.postimg.cc/jSR8jr69/Cult-fram-1-new.png){position:absolute,bottom:-0%,left:-0%,height:100%}
 
@@ -8098,6 +8134,23 @@ Now, they haunt hospitals and wedding chapels alike, their **Thimble Priests** a
 :
 }}
   
+similar monstrosities, and the Well had grown fat with their screams.  
+
+Its true power awoke when the first **Thimble Priests** discovered they could distill wishes into liquid—pouring one man's plea for wealth into another's ears, only to watch gold coins burst from his eyes. Their first miracle, **The Cask of Borrowed Sorrows**, let an entire town trade their grief to a neighboring city—the donors forgot their dead, while the recipients drowned in phantom funerals. The cult grew, collecting desperate souls willing to bargain pieces of themselves—a widow's laughter sold to cure a lord's gout, a poet's voice traded for a soldier's steady hands.  
+
+A faction sought to use the Well not just to grant wishes, but to *invert compassion itself*—to prove that every act of mercy was secretly cruelty in disguise. The ensuing **War of Balanced Scales** saw "healers" who cured plagues by redirecting them to orphans, and "benefactors" who fed the hungry by starving their own families. The conflict ended when Mother Hesper (or something wearing her skin) emerged from the Well and **drank half the world's prayers dry**—the survivors awoke with their palms pierced by invisible hooks, knowing only that they must **keep giving**.  
+
+Their magnum opus—**The Grand Irony**—proved their ultimate thesis: *no good deed goes unpunished*. A kingdom's worth of charity curdled into self-destruction—hospitals that spread disease, alms that bred addiction, love letters that inspired murders. By the final accounting, only the cult remained, their hollow chests ringing with the echoes of every wish they'd twisted.  
+
+Now, they haunt hospitals and wedding chapels alike, their **Thimble Priests** and **Debt-Scribes** measuring out mercy in draughts of venom. Their next revelation? **The Final Quenching**, where the world will learn the last truth: *"To wish is to owe—and the Well always collects."*  
+
+### Timeline
+- **Founding Era:** Mother Hesper makes her fatal wish during the **Birth of the Unchild**.  
+- **Discovery Era:** The **Thimble Rite** is perfected, allowing pain to be traded like currency.  
+- **Expansion Era:** The cult establishes **Hospices of Equal Measure** across the realm.  
+- **Schism Era:** The **War of Balanced Scales** divides the cult over active vs. passive corruption.  
+- **Ascendance Era:** The **Grand Irony** turns a kingdom's compassion into self-destruction.  
+- **Present Era:** The cult prepares for **The Final Quenching**—the Well's apotheosis.
 
 {{wide
 
@@ -8122,24 +8175,16 @@ What makes the cult truly unsettling is their absolute sincerity. Unlike most ev
 To the desperate, they're dark saints—the only ones who offer help without false promises. To rulers, they're a necessary evil—who else would take the beggars off the streets, even if they return... changed? But the wise fear them most for what they reveal: that every act of generosity in history has secretly carried this cult's taint. Their symbol—a **leaking thimble**—can be found scratched into the walls of orphanages and hospitals, a reminder that no good deed goes unrecorded.  
 
 :
-### Membership
-The cult attracts three types of souls: **The Broken** (those who paid a wish's price and now seek revenge on the universe), **The Accountants** (cold-eyed logicians who view suffering as a math problem), and **The Deluded** (who genuinely believe they're helping). Initiates begin as **Almost-Rans**, tending the Well's ledger books. Full members become **Thimble Priests**, their palms drilled with holes to measure liquid misery. The highest ranks are **The Paid-in-Full**, who've settled their debts by becoming living contracts—their skin inked with terms that rewrite themselves as new victims sign.
-:
-### Code of Conduct
-*"All gifts are loans written in blood"* is the cult's foundational law. Members must keep meticulous ledgers of every transaction, ensuring no kindness goes unpunished. Their holiest rite is **The Balancing**—when curing a blind man, they must inflict equal blindness elsewhere. To heal without collateral suffering is heresy. Even information comes at a price: answering a question requires the asker to first surrender a memory. The most sacred rule? Never warn of consequences in terms the wisher might understand—truth must be given in riddles that only make sense in hindsight.  
+
 \column
 ::::::::::::::::::::::::::::::::::::::::::
 ##### Aurora the Lifekeeper
 {margin-left:-12px}
 :::::::::
-### Secret
-The Wailing Well’s power is tied to the unfulfilled wish of its first victim—a woman named Elindra, who begged to hear her drowned daughter’s voice one last time. The well granted it… but twisted the wish. Now, the daughter’s voice is one of the countless whispers inside the Pactstone, and Elindra’s bones lie hidden in the well’s foundations.
+### Membership
+The cult attracts three types of souls: **The Broken** (those who paid a wish's price and now seek revenge on the universe), **The Accountants** (cold-eyed logicians who view suffering as a math problem), and **The Deluded** (who genuinely believe they're helping). Initiates begin as **Almost-Rans**, tending the Well's ledger books. Full members become **Thimble Priests**, their palms drilled with holes to measure liquid misery. The highest ranks are **The Paid-in-Full**, who've settled their debts by becoming living contracts—their skin inked with terms that rewrite themselves as new victims sign.
+:
 
-Exploiting the Weakness:
-
-If Elindra’s bones are recovered and given a proper burial, the well’s magic weakens—wishes no longer require a voice as payment.
-
-The cult does not know this. They believe the well is an eternal force, not a grieving mother’s prison.
 
 
 
@@ -8173,7 +8218,7 @@ The crossguard is wrought in the shape of **twin crescent moons**, their curves 
      - Melee attacks deal an additional **2d8 necrotic damage**.  
      - On a critical hit, the target’s **maximum HP is reduced** by the necrotic damage dealt until the next long rest.  
      - The flames emit **no heat**, only a bone-deep chill.  
-
+:
 2. **Umbral Sunder:**  
    - Against creatures native to the **Shadowfell**, or those with **Sunlight Sensitivity**, Shadowrend **ignores resistance** to slashing damage.  
    - If the target has **immunity** to slashing damage, the blade treats it as **resistance** instead.  
@@ -8319,9 +8364,21 @@ The Chainbreakers found him wandering the ruins of Harrowgate, his throat bloody
 
 \page
 
+
 {{wide
 ::
 }}
+### Code of Conduct
+*"All gifts are loans written in blood"* is the cult's foundational law. Members must keep meticulous ledgers of every transaction, ensuring no kindness goes unpunished. Their holiest rite is **The Balancing**—when curing a blind man, they must inflict equal blindness elsewhere. To heal without collateral suffering is heresy. Even information comes at a price: answering a question requires the asker to first surrender a memory. The most sacred rule? Never warn of consequences in terms the wisher might understand—truth must be given in riddles that only make sense in hindsight.  
+### Secret
+The Wailing Well’s power is tied to the unfulfilled wish of its first victim—a woman named Elindra, who begged to hear her drowned daughter’s voice one last time. The well granted it… but twisted the wish. Now, the daughter’s voice is one of the countless whispers inside the Pactstone, and Elindra’s bones lie hidden in the well’s foundations.
+:
+Exploiting the Weakness:
+
+- If Elindra’s bones are recovered and given a proper burial, the well’s magic weakens—wishes no longer require a voice as payment.
+
+- The cult does not know this. They believe the well is an eternal force, not a grieving mother’s prison.
+
 ### Hook I
 The party arrives in the mist-shrouded village of Blackmire, where the townsfolk speak in hushed tones of a terrible blessing—no child born in the last five years has ever cried. The midwives claim it began when a grieving mother, Mara Velsin, drowned herself in the Wailing Well after losing her infant to fever. Now, the village’s newborns are born silent, their first breaths stolen by unseen forces. The local priest, Brother Dain, believes this is a divine miracle, but the party is approached by Lyssa, Mara’s surviving daughter, who swears she hears her dead brother’s laughter in the well at night.
 
@@ -8337,8 +8394,8 @@ Investigating Isolde’s dressing room reveals a Pactstone fragment hidden in he
 The party must infiltrate the cult’s next ritual, where Isolde, now half-transformed into swirling water and music, hovers above the well. The cultists, wearing masks of frozen screams, conduct her like an orchestra. If the party saves her, her voice is restored—but it now carries the well’s curse, forcing her to choose between silence or spreading its magic. If they fail, her final performance becomes a siren’s call, drawing every listener within miles to a watery grave.
 
 ### Encounter table
-| Roll | Encounter |  
-|------|-----------|  
+| Roll | Encounter | Description |  
+|:---:|:---------:|-------------|  
 | 1 | **Thimble Priest** | Collecting tears from a grieving widow |  
 | 2 | **The Almost-Ran** | Steals a party member's wish-memory |  
 | 3 | **Wish-Fisher** | "Accidentally" drops a lucky coin |  
@@ -8346,8 +8403,6 @@ The party must infiltrate the cult’s next ritual, where Isolde, now half-trans
 | 5 | **Mercy Plague** | A healed disease given sentience |  
 | 6 | **Mother Marrow's Shadow** | Rebalances a party member's wounds | 
 
-\page
-"
 
 
 \page
