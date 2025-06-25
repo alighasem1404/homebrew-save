@@ -1,0 +1,178 @@
+/*=======---  Example CSS styling  ---=======*/
+/* Any CSS here will apply to your document! */
+
+.myExampleClass {
+	color: black;
+}
+
+
+.page .pageNumber
+{
+right:-3px;
+bottom:15px;
+
+}
+
+.page:nth-child(even) .pageNumber
+{
+
+left:-3px
+
+
+}
+
+.page:after
+{
+
+background-image:url();
+
+}
+
+
+.page
+{
+background-image:url(https://i.postimg.cc/0jdYgb4N/Cult-fram-5-new.png);
+background-size: cover;
+padding: 1.5cm 1.8cm 1cm 1.8cm;
+}
+
+
+.page:has(.insideCover) .logo img{
+
+width:2.5cm;
+height:2.5cm;
+
+}
+
+
+.Sidetext{
+
+color:white;
+position:absolute;
+right:-46%;
+Rotate:90deg;
+
+}
+
+
+.page .descriptive{
+
+
+background-color:#ccc;
+
+}
+
+
+
+
+.page:has(.partCover) .partCover {
+
+background-image:url(https://s8.uupload.ir/files/partcoverheaderphb_5e8m.png);
+}
+
+
+.tables h3 {
+
+text-align:center;
+font-size:18px;
+font-family:'ScalySansSmallCapsRemake';
+
+}
+
+.tabless h5
+
+{
+padding-top:29px;
+text-align:center;
+
+}
+
+.tablech 
+{
+border: 1px solid;
+
+}
+
+.page table tbody tr td:nth-child(2)
+{
+min-width:100px
+}
+
+
+.page h3,p
+{
+margin-left:0px !important;
+
+}
+
+.ItemName{
+top:60%;
+left:-%;
+position:absolute;
+
+}
+
+
+
+
+.statpart1{
+
+font-size:px;
+}
+
+
+.OrgName h2{
+
+text-align:center;
+font-size:22px !important;
+padding-right:40px;
+
+margin-top:-20px
+}
+
+.orgstat{
+margin-left:-0px;
+position:absolute !important;
+margin-top:20px !important;
+width:350px !important;
+}
+
+
+.columnWrapper{
+
+margin-left:-20px;
+margin-right:-20px;
+column-gap:50px;
+
+
+
+}
+
+.page .monster table tbody tr td:nth-child(2)
+{
+min-width:auto;
+}
+
+
+table td{
+
+vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
